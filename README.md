@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Hash Table
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/Roshansingh9/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Roshansingh9/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 # Binary Search
 |  |
@@ -23,6 +24,11 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # String
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/Roshansingh9/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0125-valid-palindrome](https://github.com/Roshansingh9/LeetCode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Roshansingh9/LeetCode/tree/master/0344-reverse-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Roshansingh9/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
+# Backtracking
+|  |
+| ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/Roshansingh9/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
