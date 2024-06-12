@@ -5,6 +5,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Array
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Roshansingh9/LeetCode/tree/master/0075-sort-colors) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Roshansingh9/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Roshansingh9/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
 # Hash Table
@@ -19,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Roshansingh9/LeetCode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Roshansingh9/LeetCode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Roshansingh9/LeetCode/tree/master/0344-reverse-string) |
 # String
@@ -32,3 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Roshansingh9/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+# Sorting
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Roshansingh9/LeetCode/tree/master/0075-sort-colors) |
