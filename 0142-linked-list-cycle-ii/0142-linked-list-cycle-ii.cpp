@@ -9,18 +9,25 @@
 class Solution {
 public:
     ListNode *detectCycle(ListNode *head) {
-        map<ListNode*,bool>visited;
-        ListNode* temp=head;
-        if(temp == NULL || temp->next == NULL) return NULL;
-        
-        while(temp!=NULL){
-            if (visited[temp]){
-                return temp;
+        if (head == NULL || head->next == NULL) return NULL;
+
+        ListNode* slow = head;
+        ListNode* fast = head;
+
+        while (fast != NULL && fast->next != NULL) {
+            slow = slow->next;
+            fast = fast->next->next;
+
+            if (slow == fast) {
+                ListNode* entry = head;
+                while (entry != slow) {
+                    entry = entry->next;
+                    slow = slow->next;
+                }
+                return entry;
             }
-          visited[temp]=true;
-         
-          temp=temp->next;
         }
+
         return NULL;
     }
 };
