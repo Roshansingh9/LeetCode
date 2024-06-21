@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0853-most-profit-assigning-work](https://github.com/Roshansingh9/LeetCode/tree/master/0853-most-profit-assigning-work) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Roshansingh9/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Roshansingh9/LeetCode/tree/master/0982-minimum-increment-to-make-array-unique) |
+| [1138-grumpy-bookstore-owner](https://github.com/Roshansingh9/LeetCode/tree/master/1138-grumpy-bookstore-owner) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Roshansingh9/LeetCode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Roshansingh9/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 # Hash Table
@@ -91,3 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0633-sum-of-square-numbers](https://github.com/Roshansingh9/LeetCode/tree/master/0633-sum-of-square-numbers) |
+# Sliding Window
+|  |
+| ------- |
+| [1138-grumpy-bookstore-owner](https://github.com/Roshansingh9/LeetCode/tree/master/1138-grumpy-bookstore-owner) |
