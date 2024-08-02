@@ -103,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Roshansingh9/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Roshansingh9/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
+| [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Roshansingh9/LeetCode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Roshansingh9/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2727-number-of-senior-citizens](https://github.com/Roshansingh9/LeetCode/tree/master/2727-number-of-senior-citizens) |
 ## Hash Table
@@ -120,6 +121,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Roshansingh9/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Roshansingh9/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
+| [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Roshansingh9/LeetCode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 ## Greedy
 |  |
 | ------- |
