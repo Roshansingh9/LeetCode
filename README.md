@@ -101,6 +101,7 @@ This repository contains a collection of LeetCode solutions I have worked on, ca
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Roshansingh9/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0661-image-smoother](https://github.com/Roshansingh9/LeetCode/tree/master/0661-image-smoother) |
 | [0870-magic-squares-in-grid](https://github.com/Roshansingh9/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/Roshansingh9/LeetCode/tree/master/0921-spiral-matrix-iii) |
 | [0999-regions-cut-by-slashes](https://github.com/Roshansingh9/LeetCode/tree/master/0999-regions-cut-by-slashes) |
@@ -190,6 +191,7 @@ This repository contains a collection of LeetCode solutions I have worked on, ca
 ## Matrix
 |  |
 | ------- |
+| [0661-image-smoother](https://github.com/Roshansingh9/LeetCode/tree/master/0661-image-smoother) |
 | [0870-magic-squares-in-grid](https://github.com/Roshansingh9/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/Roshansingh9/LeetCode/tree/master/0921-spiral-matrix-iii) |
 | [0999-regions-cut-by-slashes](https://github.com/Roshansingh9/LeetCode/tree/master/0999-regions-cut-by-slashes) |
