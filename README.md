@@ -122,6 +122,7 @@ This repository contains a collection of LeetCode solutions I have worked on, ca
 ## Hash Table
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/Roshansingh9/LeetCode/tree/master/0187-repeated-dna-sequences) |
 | [0219-contains-duplicate-ii](https://github.com/Roshansingh9/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0299-bulls-and-cows](https://github.com/Roshansingh9/LeetCode/tree/master/0299-bulls-and-cows) |
 | [0870-magic-squares-in-grid](https://github.com/Roshansingh9/LeetCode/tree/master/0870-magic-squares-in-grid) |
@@ -144,6 +145,7 @@ This repository contains a collection of LeetCode solutions I have worked on, ca
 ## Sliding Window
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/Roshansingh9/LeetCode/tree/master/0187-repeated-dna-sequences) |
 | [0219-contains-duplicate-ii](https://github.com/Roshansingh9/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Roshansingh9/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Roshansingh9/LeetCode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
@@ -176,6 +178,7 @@ This repository contains a collection of LeetCode solutions I have worked on, ca
 ## String
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/Roshansingh9/LeetCode/tree/master/0187-repeated-dna-sequences) |
 | [0273-integer-to-english-words](https://github.com/Roshansingh9/LeetCode/tree/master/0273-integer-to-english-words) |
 | [0299-bulls-and-cows](https://github.com/Roshansingh9/LeetCode/tree/master/0299-bulls-and-cows) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Roshansingh9/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -259,4 +262,16 @@ This repository contains a collection of LeetCode solutions I have worked on, ca
 |  |
 | ------- |
 | [0914-random-point-in-non-overlapping-rectangles](https://github.com/Roshansingh9/LeetCode/tree/master/0914-random-point-in-non-overlapping-rectangles) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/Roshansingh9/LeetCode/tree/master/0187-repeated-dna-sequences) |
+## Rolling Hash
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/Roshansingh9/LeetCode/tree/master/0187-repeated-dna-sequences) |
+## Hash Function
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/Roshansingh9/LeetCode/tree/master/0187-repeated-dna-sequences) |
 <!---LeetCode Topics End-->
