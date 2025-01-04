@@ -105,6 +105,7 @@ This repository contains a collection of LeetCode solutions I have worked on, ca
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Roshansingh9/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0661-image-smoother](https://github.com/Roshansingh9/LeetCode/tree/master/0661-image-smoother) |
 | [0870-magic-squares-in-grid](https://github.com/Roshansingh9/LeetCode/tree/master/0870-magic-squares-in-grid) |
+| [0914-random-point-in-non-overlapping-rectangles](https://github.com/Roshansingh9/LeetCode/tree/master/0914-random-point-in-non-overlapping-rectangles) |
 | [0921-spiral-matrix-iii](https://github.com/Roshansingh9/LeetCode/tree/master/0921-spiral-matrix-iii) |
 | [0999-regions-cut-by-slashes](https://github.com/Roshansingh9/LeetCode/tree/master/0999-regions-cut-by-slashes) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Roshansingh9/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
@@ -135,6 +136,7 @@ This repository contains a collection of LeetCode solutions I have worked on, ca
 | [0273-integer-to-english-words](https://github.com/Roshansingh9/LeetCode/tree/master/0273-integer-to-english-words) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Roshansingh9/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0870-magic-squares-in-grid](https://github.com/Roshansingh9/LeetCode/tree/master/0870-magic-squares-in-grid) |
+| [0914-random-point-in-non-overlapping-rectangles](https://github.com/Roshansingh9/LeetCode/tree/master/0914-random-point-in-non-overlapping-rectangles) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Roshansingh9/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1501-circle-and-rectangle-overlapping](https://github.com/Roshansingh9/LeetCode/tree/master/1501-circle-and-rectangle-overlapping) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Roshansingh9/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -186,6 +188,7 @@ This repository contains a collection of LeetCode solutions I have worked on, ca
 |  |
 | ------- |
 | [0354-russian-doll-envelopes](https://github.com/Roshansingh9/LeetCode/tree/master/0354-russian-doll-envelopes) |
+| [0914-random-point-in-non-overlapping-rectangles](https://github.com/Roshansingh9/LeetCode/tree/master/0914-random-point-in-non-overlapping-rectangles) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Roshansingh9/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Roshansingh9/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/Roshansingh9/LeetCode/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
@@ -222,6 +225,7 @@ This repository contains a collection of LeetCode solutions I have worked on, ca
 ## Prefix Sum
 |  |
 | ------- |
+| [0914-random-point-in-non-overlapping-rectangles](https://github.com/Roshansingh9/LeetCode/tree/master/0914-random-point-in-non-overlapping-rectangles) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Roshansingh9/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Enumeration
 |  |
@@ -239,4 +243,16 @@ This repository contains a collection of LeetCode solutions I have worked on, ca
 |  |
 | ------- |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Roshansingh9/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
+## Reservoir Sampling
+|  |
+| ------- |
+| [0914-random-point-in-non-overlapping-rectangles](https://github.com/Roshansingh9/LeetCode/tree/master/0914-random-point-in-non-overlapping-rectangles) |
+## Ordered Set
+|  |
+| ------- |
+| [0914-random-point-in-non-overlapping-rectangles](https://github.com/Roshansingh9/LeetCode/tree/master/0914-random-point-in-non-overlapping-rectangles) |
+## Randomized
+|  |
+| ------- |
+| [0914-random-point-in-non-overlapping-rectangles](https://github.com/Roshansingh9/LeetCode/tree/master/0914-random-point-in-non-overlapping-rectangles) |
 <!---LeetCode Topics End-->
