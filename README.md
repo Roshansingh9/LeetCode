@@ -138,6 +138,7 @@ This repository contains a collection of LeetCode solutions I have worked on, ca
 ## Math
 |  |
 | ------- |
+| [0168-excel-sheet-column-title](https://github.com/Roshansingh9/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0273-integer-to-english-words](https://github.com/Roshansingh9/LeetCode/tree/master/0273-integer-to-english-words) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Roshansingh9/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0870-magic-squares-in-grid](https://github.com/Roshansingh9/LeetCode/tree/master/0870-magic-squares-in-grid) |
@@ -183,6 +184,7 @@ This repository contains a collection of LeetCode solutions I have worked on, ca
 ## String
 |  |
 | ------- |
+| [0168-excel-sheet-column-title](https://github.com/Roshansingh9/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0187-repeated-dna-sequences](https://github.com/Roshansingh9/LeetCode/tree/master/0187-repeated-dna-sequences) |
 | [0273-integer-to-english-words](https://github.com/Roshansingh9/LeetCode/tree/master/0273-integer-to-english-words) |
 | [0299-bulls-and-cows](https://github.com/Roshansingh9/LeetCode/tree/master/0299-bulls-and-cows) |
