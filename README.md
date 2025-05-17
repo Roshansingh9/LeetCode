@@ -100,6 +100,7 @@ This repository contains a collection of LeetCode solutions I have worked on, ca
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Roshansingh9/LeetCode/tree/master/0001-two-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Roshansingh9/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0324-wiggle-sort-ii](https://github.com/Roshansingh9/LeetCode/tree/master/0324-wiggle-sort-ii) |
 | [0354-russian-doll-envelopes](https://github.com/Roshansingh9/LeetCode/tree/master/0354-russian-doll-envelopes) |
@@ -125,6 +126,7 @@ This repository contains a collection of LeetCode solutions I have worked on, ca
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Roshansingh9/LeetCode/tree/master/0001-two-sum) |
 | [0187-repeated-dna-sequences](https://github.com/Roshansingh9/LeetCode/tree/master/0187-repeated-dna-sequences) |
 | [0219-contains-duplicate-ii](https://github.com/Roshansingh9/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0299-bulls-and-cows](https://github.com/Roshansingh9/LeetCode/tree/master/0299-bulls-and-cows) |
