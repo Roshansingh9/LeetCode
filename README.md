@@ -101,6 +101,7 @@ This repository contains a collection of LeetCode solutions I have worked on, ca
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Roshansingh9/LeetCode/tree/master/0001-two-sum) |
+| [0057-insert-interval](https://github.com/Roshansingh9/LeetCode/tree/master/0057-insert-interval) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Roshansingh9/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0219-contains-duplicate-ii](https://github.com/Roshansingh9/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0324-wiggle-sort-ii](https://github.com/Roshansingh9/LeetCode/tree/master/0324-wiggle-sort-ii) |
