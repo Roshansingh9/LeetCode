@@ -101,6 +101,7 @@ This repository contains a collection of LeetCode solutions I have worked on, ca
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Roshansingh9/LeetCode/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/Roshansingh9/LeetCode/tree/master/0015-3sum) |
 | [0057-insert-interval](https://github.com/Roshansingh9/LeetCode/tree/master/0057-insert-interval) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Roshansingh9/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0219-contains-duplicate-ii](https://github.com/Roshansingh9/LeetCode/tree/master/0219-contains-duplicate-ii) |
@@ -167,6 +168,7 @@ This repository contains a collection of LeetCode solutions I have worked on, ca
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Roshansingh9/LeetCode/tree/master/0015-3sum) |
 | [0324-wiggle-sort-ii](https://github.com/Roshansingh9/LeetCode/tree/master/0324-wiggle-sort-ii) |
 | [0354-russian-doll-envelopes](https://github.com/Roshansingh9/LeetCode/tree/master/0354-russian-doll-envelopes) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Roshansingh9/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -202,6 +204,7 @@ This repository contains a collection of LeetCode solutions I have worked on, ca
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Roshansingh9/LeetCode/tree/master/0015-3sum) |
 | [0344-reverse-string](https://github.com/Roshansingh9/LeetCode/tree/master/0344-reverse-string) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Roshansingh9/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/Roshansingh9/LeetCode/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
