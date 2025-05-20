@@ -106,6 +106,7 @@ This repository contains a collection of LeetCode solutions I have worked on, ca
 | [0056-merge-intervals](https://github.com/Roshansingh9/LeetCode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Roshansingh9/LeetCode/tree/master/0057-insert-interval) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Roshansingh9/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0169-majority-element](https://github.com/Roshansingh9/LeetCode/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/Roshansingh9/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/Roshansingh9/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0324-wiggle-sort-ii](https://github.com/Roshansingh9/LeetCode/tree/master/0324-wiggle-sort-ii) |
@@ -133,6 +134,7 @@ This repository contains a collection of LeetCode solutions I have worked on, ca
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Roshansingh9/LeetCode/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/Roshansingh9/LeetCode/tree/master/0169-majority-element) |
 | [0187-repeated-dna-sequences](https://github.com/Roshansingh9/LeetCode/tree/master/0187-repeated-dna-sequences) |
 | [0219-contains-duplicate-ii](https://github.com/Roshansingh9/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0299-bulls-and-cows](https://github.com/Roshansingh9/LeetCode/tree/master/0299-bulls-and-cows) |
@@ -173,6 +175,7 @@ This repository contains a collection of LeetCode solutions I have worked on, ca
 | ------- |
 | [0015-3sum](https://github.com/Roshansingh9/LeetCode/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/Roshansingh9/LeetCode/tree/master/0056-merge-intervals) |
+| [0169-majority-element](https://github.com/Roshansingh9/LeetCode/tree/master/0169-majority-element) |
 | [0324-wiggle-sort-ii](https://github.com/Roshansingh9/LeetCode/tree/master/0324-wiggle-sort-ii) |
 | [0354-russian-doll-envelopes](https://github.com/Roshansingh9/LeetCode/tree/master/0354-russian-doll-envelopes) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Roshansingh9/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -223,6 +226,7 @@ This repository contains a collection of LeetCode solutions I have worked on, ca
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Roshansingh9/LeetCode/tree/master/0169-majority-element) |
 | [0299-bulls-and-cows](https://github.com/Roshansingh9/LeetCode/tree/master/0299-bulls-and-cows) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Roshansingh9/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Roshansingh9/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -319,6 +323,7 @@ This repository contains a collection of LeetCode solutions I have worked on, ca
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Roshansingh9/LeetCode/tree/master/0169-majority-element) |
 | [0324-wiggle-sort-ii](https://github.com/Roshansingh9/LeetCode/tree/master/0324-wiggle-sort-ii) |
 ## Quickselect
 |  |
