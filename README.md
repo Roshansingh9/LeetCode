@@ -101,6 +101,7 @@ This repository contains a collection of LeetCode solutions I have worked on, ca
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Roshansingh9/LeetCode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/Roshansingh9/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Roshansingh9/LeetCode/tree/master/0015-3sum) |
 | [0039-combination-sum](https://github.com/Roshansingh9/LeetCode/tree/master/0039-combination-sum) |
 | [0056-merge-intervals](https://github.com/Roshansingh9/LeetCode/tree/master/0056-merge-intervals) |
@@ -170,6 +171,7 @@ This repository contains a collection of LeetCode solutions I have worked on, ca
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Roshansingh9/LeetCode/tree/master/0011-container-with-most-water) |
 | [0324-wiggle-sort-ii](https://github.com/Roshansingh9/LeetCode/tree/master/0324-wiggle-sort-ii) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Roshansingh9/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Roshansingh9/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -216,6 +218,7 @@ This repository contains a collection of LeetCode solutions I have worked on, ca
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Roshansingh9/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Roshansingh9/LeetCode/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/Roshansingh9/LeetCode/tree/master/0075-sort-colors) |
 | [0344-reverse-string](https://github.com/Roshansingh9/LeetCode/tree/master/0344-reverse-string) |
