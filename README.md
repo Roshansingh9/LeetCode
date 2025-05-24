@@ -108,6 +108,7 @@ This repository contains a collection of LeetCode solutions I have worked on, ca
 | [0057-insert-interval](https://github.com/Roshansingh9/LeetCode/tree/master/0057-insert-interval) |
 | [0075-sort-colors](https://github.com/Roshansingh9/LeetCode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Roshansingh9/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/Roshansingh9/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/Roshansingh9/LeetCode/tree/master/0134-gas-station) |
 | [0169-majority-element](https://github.com/Roshansingh9/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Roshansingh9/LeetCode/tree/master/0217-contains-duplicate) |
@@ -138,6 +139,7 @@ This repository contains a collection of LeetCode solutions I have worked on, ca
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Roshansingh9/LeetCode/tree/master/0001-two-sum) |
+| [0128-longest-consecutive-sequence](https://github.com/Roshansingh9/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Roshansingh9/LeetCode/tree/master/0169-majority-element) |
 | [0187-repeated-dna-sequences](https://github.com/Roshansingh9/LeetCode/tree/master/0187-repeated-dna-sequences) |
 | [0217-contains-duplicate](https://github.com/Roshansingh9/LeetCode/tree/master/0217-contains-duplicate) |
@@ -266,6 +268,7 @@ This repository contains a collection of LeetCode solutions I have worked on, ca
 ## Union Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Roshansingh9/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0999-regions-cut-by-slashes](https://github.com/Roshansingh9/LeetCode/tree/master/0999-regions-cut-by-slashes) |
 ## Prefix Sum
 |  |
