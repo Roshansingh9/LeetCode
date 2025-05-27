@@ -115,6 +115,7 @@ This repository contains a collection of LeetCode solutions I have worked on, ca
 | [0217-contains-duplicate](https://github.com/Roshansingh9/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Roshansingh9/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/Roshansingh9/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0283-move-zeroes](https://github.com/Roshansingh9/LeetCode/tree/master/0283-move-zeroes) |
 | [0324-wiggle-sort-ii](https://github.com/Roshansingh9/LeetCode/tree/master/0324-wiggle-sort-ii) |
 | [0354-russian-doll-envelopes](https://github.com/Roshansingh9/LeetCode/tree/master/0354-russian-doll-envelopes) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Roshansingh9/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -228,6 +229,7 @@ This repository contains a collection of LeetCode solutions I have worked on, ca
 | [0015-3sum](https://github.com/Roshansingh9/LeetCode/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/Roshansingh9/LeetCode/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/Roshansingh9/LeetCode/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/Roshansingh9/LeetCode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Roshansingh9/LeetCode/tree/master/0344-reverse-string) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Roshansingh9/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/Roshansingh9/LeetCode/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
