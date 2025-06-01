@@ -105,6 +105,7 @@ This repository contains a collection of LeetCode solutions I have worked on, ca
 | [0015-3sum](https://github.com/Roshansingh9/LeetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Roshansingh9/LeetCode/tree/master/0016-3sum-closest) |
 | [0039-combination-sum](https://github.com/Roshansingh9/LeetCode/tree/master/0039-combination-sum) |
+| [0049-group-anagrams](https://github.com/Roshansingh9/LeetCode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Roshansingh9/LeetCode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Roshansingh9/LeetCode/tree/master/0057-insert-interval) |
 | [0075-sort-colors](https://github.com/Roshansingh9/LeetCode/tree/master/0075-sort-colors) |
@@ -145,6 +146,7 @@ This repository contains a collection of LeetCode solutions I have worked on, ca
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Roshansingh9/LeetCode/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/Roshansingh9/LeetCode/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/Roshansingh9/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Roshansingh9/LeetCode/tree/master/0169-majority-element) |
 | [0187-repeated-dna-sequences](https://github.com/Roshansingh9/LeetCode/tree/master/0187-repeated-dna-sequences) |
@@ -194,6 +196,7 @@ This repository contains a collection of LeetCode solutions I have worked on, ca
 | ------- |
 | [0015-3sum](https://github.com/Roshansingh9/LeetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Roshansingh9/LeetCode/tree/master/0016-3sum-closest) |
+| [0049-group-anagrams](https://github.com/Roshansingh9/LeetCode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Roshansingh9/LeetCode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Roshansingh9/LeetCode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Roshansingh9/LeetCode/tree/master/0169-majority-element) |
@@ -222,6 +225,7 @@ This repository contains a collection of LeetCode solutions I have worked on, ca
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Roshansingh9/LeetCode/tree/master/0049-group-anagrams) |
 | [0168-excel-sheet-column-title](https://github.com/Roshansingh9/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0187-repeated-dna-sequences](https://github.com/Roshansingh9/LeetCode/tree/master/0187-repeated-dna-sequences) |
 | [0242-valid-anagram](https://github.com/Roshansingh9/LeetCode/tree/master/0242-valid-anagram) |
