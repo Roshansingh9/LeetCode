@@ -124,6 +124,7 @@ This repository contains a collection of LeetCode solutions I have worked on, ca
 | [0217-contains-duplicate](https://github.com/Roshansingh9/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Roshansingh9/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/Roshansingh9/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/Roshansingh9/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Roshansingh9/LeetCode/tree/master/0283-move-zeroes) |
 | [0324-wiggle-sort-ii](https://github.com/Roshansingh9/LeetCode/tree/master/0324-wiggle-sort-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Roshansingh9/LeetCode/tree/master/0347-top-k-frequent-elements) |
@@ -164,6 +165,7 @@ This repository contains a collection of LeetCode solutions I have worked on, ca
 | [0217-contains-duplicate](https://github.com/Roshansingh9/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Roshansingh9/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Roshansingh9/LeetCode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Roshansingh9/LeetCode/tree/master/0268-missing-number) |
 | [0299-bulls-and-cows](https://github.com/Roshansingh9/LeetCode/tree/master/0299-bulls-and-cows) |
 | [0347-top-k-frequent-elements](https://github.com/Roshansingh9/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0525-contiguous-array](https://github.com/Roshansingh9/LeetCode/tree/master/0525-contiguous-array) |
@@ -181,6 +183,7 @@ This repository contains a collection of LeetCode solutions I have worked on, ca
 | [0009-palindrome-number](https://github.com/Roshansingh9/LeetCode/tree/master/0009-palindrome-number) |
 | [0168-excel-sheet-column-title](https://github.com/Roshansingh9/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0189-rotate-array](https://github.com/Roshansingh9/LeetCode/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/Roshansingh9/LeetCode/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/Roshansingh9/LeetCode/tree/master/0273-integer-to-english-words) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Roshansingh9/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0870-magic-squares-in-grid](https://github.com/Roshansingh9/LeetCode/tree/master/0870-magic-squares-in-grid) |
@@ -216,6 +219,7 @@ This repository contains a collection of LeetCode solutions I have worked on, ca
 | [0169-majority-element](https://github.com/Roshansingh9/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Roshansingh9/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Roshansingh9/LeetCode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Roshansingh9/LeetCode/tree/master/0268-missing-number) |
 | [0324-wiggle-sort-ii](https://github.com/Roshansingh9/LeetCode/tree/master/0324-wiggle-sort-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Roshansingh9/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0354-russian-doll-envelopes](https://github.com/Roshansingh9/LeetCode/tree/master/0354-russian-doll-envelopes) |
@@ -277,6 +281,7 @@ This repository contains a collection of LeetCode solutions I have worked on, ca
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Roshansingh9/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Roshansingh9/LeetCode/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Roshansingh9/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/Roshansingh9/LeetCode/tree/master/0268-missing-number) |
 | [0354-russian-doll-envelopes](https://github.com/Roshansingh9/LeetCode/tree/master/0354-russian-doll-envelopes) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Roshansingh9/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/Roshansingh9/LeetCode/tree/master/0792-binary-search) |
@@ -368,6 +373,7 @@ This repository contains a collection of LeetCode solutions I have worked on, ca
 | [0078-subsets](https://github.com/Roshansingh9/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Roshansingh9/LeetCode/tree/master/0090-subsets-ii) |
 | [0187-repeated-dna-sequences](https://github.com/Roshansingh9/LeetCode/tree/master/0187-repeated-dna-sequences) |
+| [0268-missing-number](https://github.com/Roshansingh9/LeetCode/tree/master/0268-missing-number) |
 | [0638-shopping-offers](https://github.com/Roshansingh9/LeetCode/tree/master/0638-shopping-offers) |
 | [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/Roshansingh9/LeetCode/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 ## Rolling Hash
