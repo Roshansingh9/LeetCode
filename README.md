@@ -178,6 +178,7 @@ This repository contains a collection of LeetCode solutions I have worked on, ca
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/Roshansingh9/LeetCode/tree/master/0009-palindrome-number) |
 | [0168-excel-sheet-column-title](https://github.com/Roshansingh9/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0189-rotate-array](https://github.com/Roshansingh9/LeetCode/tree/master/0189-rotate-array) |
 | [0273-integer-to-english-words](https://github.com/Roshansingh9/LeetCode/tree/master/0273-integer-to-english-words) |
