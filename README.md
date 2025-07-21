@@ -254,6 +254,7 @@ This repository contains a collection of LeetCode solutions I have worked on, ca
 | [0273-integer-to-english-words](https://github.com/Roshansingh9/LeetCode/tree/master/0273-integer-to-english-words) |
 | [0299-bulls-and-cows](https://github.com/Roshansingh9/LeetCode/tree/master/0299-bulls-and-cows) |
 | [0344-reverse-string](https://github.com/Roshansingh9/LeetCode/tree/master/0344-reverse-string) |
+| [1078-remove-outermost-parentheses](https://github.com/Roshansingh9/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/Roshansingh9/LeetCode/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Roshansingh9/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2727-number-of-senior-citizens](https://github.com/Roshansingh9/LeetCode/tree/master/2727-number-of-senior-citizens) |
@@ -431,6 +432,7 @@ This repository contains a collection of LeetCode solutions I have worked on, ca
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Roshansingh9/LeetCode/tree/master/0042-trapping-rain-water) |
+| [1078-remove-outermost-parentheses](https://github.com/Roshansingh9/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
