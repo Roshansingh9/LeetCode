@@ -247,6 +247,7 @@ This repository contains a collection of LeetCode solutions I have worked on, ca
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Roshansingh9/LeetCode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Roshansingh9/LeetCode/tree/master/0049-group-anagrams) |
 | [0131-palindrome-partitioning](https://github.com/Roshansingh9/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0168-excel-sheet-column-title](https://github.com/Roshansingh9/LeetCode/tree/master/0168-excel-sheet-column-title) |
@@ -438,6 +439,7 @@ This repository contains a collection of LeetCode solutions I have worked on, ca
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Roshansingh9/LeetCode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Roshansingh9/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/Roshansingh9/LeetCode/tree/master/0143-reorder-list) |
 | [1078-remove-outermost-parentheses](https://github.com/Roshansingh9/LeetCode/tree/master/1078-remove-outermost-parentheses) |
