@@ -1,15 +1,18 @@
 class Solution {
 public:
     bool isPalindrome(int x) {
-        if (x < 0)
-            return false;
-        int reverse = 0, actual = x;
-        while (x > 0) {
-            if (reverse > INT_MAX / 10 || (reverse == INT_MAX / 10 && x % 10 > 7))
+        if(x<0) return false;
+      string s = to_string(x);
+        int left = 0;
+        int right = s.length() - 1;
+
+        while (left < right) {
+            if (s[left] != s[right])
                 return false;
-            reverse = reverse * 10 + (x % 10);
-            x = x / 10;
+            left++;
+            right--;
         }
-        return reverse==actual;
+
+        return true;  
     }
 };
