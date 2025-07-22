@@ -303,6 +303,7 @@ This repository contains a collection of LeetCode solutions I have worked on, ca
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Roshansingh9/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/Roshansingh9/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0273-integer-to-english-words](https://github.com/Roshansingh9/LeetCode/tree/master/0273-integer-to-english-words) |
 | [1013-fibonacci-number](https://github.com/Roshansingh9/LeetCode/tree/master/1013-fibonacci-number) |
@@ -443,6 +444,7 @@ This repository contains a collection of LeetCode solutions I have worked on, ca
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Roshansingh9/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/Roshansingh9/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/Roshansingh9/LeetCode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
