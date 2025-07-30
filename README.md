@@ -182,6 +182,7 @@ This repository contains a collection of LeetCode solutions I have worked on, ca
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Roshansingh9/LeetCode/tree/master/0009-palindrome-number) |
+| [0050-powx-n](https://github.com/Roshansingh9/LeetCode/tree/master/0050-powx-n) |
 | [0168-excel-sheet-column-title](https://github.com/Roshansingh9/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0189-rotate-array](https://github.com/Roshansingh9/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Roshansingh9/LeetCode/tree/master/0268-missing-number) |
@@ -308,6 +309,7 @@ This repository contains a collection of LeetCode solutions I have worked on, ca
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Roshansingh9/LeetCode/tree/master/0021-merge-two-sorted-lists) |
+| [0050-powx-n](https://github.com/Roshansingh9/LeetCode/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/Roshansingh9/LeetCode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/Roshansingh9/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0273-integer-to-english-words](https://github.com/Roshansingh9/LeetCode/tree/master/0273-integer-to-english-words) |
