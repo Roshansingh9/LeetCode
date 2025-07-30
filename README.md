@@ -249,6 +249,7 @@ This repository contains a collection of LeetCode solutions I have worked on, ca
 ## String
 |  |
 | ------- |
+| [0008-string-to-integer-atoi](https://github.com/Roshansingh9/LeetCode/tree/master/0008-string-to-integer-atoi) |
 | [0020-valid-parentheses](https://github.com/Roshansingh9/LeetCode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Roshansingh9/LeetCode/tree/master/0049-group-anagrams) |
 | [0131-palindrome-partitioning](https://github.com/Roshansingh9/LeetCode/tree/master/0131-palindrome-partitioning) |
