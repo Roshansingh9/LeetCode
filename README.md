@@ -251,6 +251,7 @@ This repository contains a collection of LeetCode solutions I have worked on, ca
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Roshansingh9/LeetCode/tree/master/0008-string-to-integer-atoi) |
 | [0020-valid-parentheses](https://github.com/Roshansingh9/LeetCode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Roshansingh9/LeetCode/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/Roshansingh9/LeetCode/tree/master/0049-group-anagrams) |
 | [0131-palindrome-partitioning](https://github.com/Roshansingh9/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0168-excel-sheet-column-title](https://github.com/Roshansingh9/LeetCode/tree/master/0168-excel-sheet-column-title) |
@@ -356,6 +357,7 @@ This repository contains a collection of LeetCode solutions I have worked on, ca
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Roshansingh9/LeetCode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Roshansingh9/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Roshansingh9/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/Roshansingh9/LeetCode/tree/master/0131-palindrome-partitioning) |
@@ -403,6 +405,7 @@ This repository contains a collection of LeetCode solutions I have worked on, ca
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Roshansingh9/LeetCode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Roshansingh9/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Roshansingh9/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/Roshansingh9/LeetCode/tree/master/0078-subsets) |
