@@ -1,27 +1,29 @@
 class Solution {
 private:
-    bool isPalindrome(const string& s, int start, int end) {
+    bool ispal(const string& s,int start,int end) {
+      
         while (start < end) {
-            if (s[start] != s[end]) return false;
-            ++start;
-            --end;
+            if (s[start] != s[end])
+                return false;
+            start++;
+            end--;
         }
         return true;
     }
 
     void solution(vector<vector<string>>& ans, vector<string>& sub, string& s, int index) {
-        if (index == s.size()) {
-            ans.push_back(sub);
-            return;
+        if(index==s.size()){
+        ans.push_back(sub);
+        return;
         }
-
-        for (int i = index; i < s.size(); ++i) {
-            if (isPalindrome(s, index, i)) {
-                sub.push_back(s.substr(index, i - index + 1));
-                solution(ans, sub, s, i + 1);
+        for(int i=index;i<s.size();i++){
+            if(ispal(s,index,i)){
+                sub.push_back(s.substr(index,i-index+1));
+                solution(ans,sub,s,i+1);
                 sub.pop_back();
             }
         }
+        
     }
 
 public:
