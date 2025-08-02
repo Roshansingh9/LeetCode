@@ -189,6 +189,7 @@ This repository contains a collection of LeetCode solutions I have worked on, ca
 | ------- |
 | [0009-palindrome-number](https://github.com/Roshansingh9/LeetCode/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/Roshansingh9/LeetCode/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/Roshansingh9/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Roshansingh9/LeetCode/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/Roshansingh9/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0189-rotate-array](https://github.com/Roshansingh9/LeetCode/tree/master/0189-rotate-array) |
@@ -367,6 +368,7 @@ This repository contains a collection of LeetCode solutions I have worked on, ca
 | ------- |
 | [0022-generate-parentheses](https://github.com/Roshansingh9/LeetCode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Roshansingh9/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0062-unique-paths](https://github.com/Roshansingh9/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Roshansingh9/LeetCode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Roshansingh9/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Roshansingh9/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -494,4 +496,8 @@ This repository contains a collection of LeetCode solutions I have worked on, ca
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Roshansingh9/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Roshansingh9/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Roshansingh9/LeetCode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
