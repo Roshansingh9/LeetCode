@@ -113,6 +113,7 @@ This repository contains a collection of LeetCode solutions I have worked on, ca
 | [0056-merge-intervals](https://github.com/Roshansingh9/LeetCode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Roshansingh9/LeetCode/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/Roshansingh9/LeetCode/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/Roshansingh9/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0075-sort-colors](https://github.com/Roshansingh9/LeetCode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Roshansingh9/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Roshansingh9/LeetCode/tree/master/0090-subsets-ii) |
@@ -332,6 +333,7 @@ This repository contains a collection of LeetCode solutions I have worked on, ca
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/Roshansingh9/LeetCode/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/Roshansingh9/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0661-image-smoother](https://github.com/Roshansingh9/LeetCode/tree/master/0661-image-smoother) |
 | [0870-magic-squares-in-grid](https://github.com/Roshansingh9/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/Roshansingh9/LeetCode/tree/master/0921-spiral-matrix-iii) |
@@ -372,6 +374,7 @@ This repository contains a collection of LeetCode solutions I have worked on, ca
 | [0042-trapping-rain-water](https://github.com/Roshansingh9/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/Roshansingh9/LeetCode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Roshansingh9/LeetCode/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/Roshansingh9/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Roshansingh9/LeetCode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Roshansingh9/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Roshansingh9/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
