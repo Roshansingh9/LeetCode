@@ -278,6 +278,7 @@ This repository contains a collection of LeetCode solutions I have worked on, ca
 | [0299-bulls-and-cows](https://github.com/Roshansingh9/LeetCode/tree/master/0299-bulls-and-cows) |
 | [0344-reverse-string](https://github.com/Roshansingh9/LeetCode/tree/master/0344-reverse-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/Roshansingh9/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
+| [0583-delete-operation-for-two-strings](https://github.com/Roshansingh9/LeetCode/tree/master/0583-delete-operation-for-two-strings) |
 | [1078-remove-outermost-parentheses](https://github.com/Roshansingh9/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [1250-longest-common-subsequence](https://github.com/Roshansingh9/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Roshansingh9/LeetCode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -399,6 +400,7 @@ This repository contains a collection of LeetCode solutions I have worked on, ca
 | [0494-target-sum](https://github.com/Roshansingh9/LeetCode/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/Roshansingh9/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/Roshansingh9/LeetCode/tree/master/0518-coin-change-ii) |
+| [0583-delete-operation-for-two-strings](https://github.com/Roshansingh9/LeetCode/tree/master/0583-delete-operation-for-two-strings) |
 | [0638-shopping-offers](https://github.com/Roshansingh9/LeetCode/tree/master/0638-shopping-offers) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Roshansingh9/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0967-minimum-falling-path-sum](https://github.com/Roshansingh9/LeetCode/tree/master/0967-minimum-falling-path-sum) |
