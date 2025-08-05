@@ -222,6 +222,7 @@ This repository contains a collection of LeetCode solutions I have worked on, ca
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Roshansingh9/LeetCode/tree/master/0011-container-with-most-water) |
+| [0044-wildcard-matching](https://github.com/Roshansingh9/LeetCode/tree/master/0044-wildcard-matching) |
 | [0134-gas-station](https://github.com/Roshansingh9/LeetCode/tree/master/0134-gas-station) |
 | [0324-wiggle-sort-ii](https://github.com/Roshansingh9/LeetCode/tree/master/0324-wiggle-sort-ii) |
 | [0455-assign-cookies](https://github.com/Roshansingh9/LeetCode/tree/master/0455-assign-cookies) |
@@ -269,6 +270,7 @@ This repository contains a collection of LeetCode solutions I have worked on, ca
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Roshansingh9/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/Roshansingh9/LeetCode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Roshansingh9/LeetCode/tree/master/0022-generate-parentheses) |
+| [0044-wildcard-matching](https://github.com/Roshansingh9/LeetCode/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/Roshansingh9/LeetCode/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/Roshansingh9/LeetCode/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/Roshansingh9/LeetCode/tree/master/0115-distinct-subsequences) |
@@ -335,6 +337,7 @@ This repository contains a collection of LeetCode solutions I have worked on, ca
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Roshansingh9/LeetCode/tree/master/0021-merge-two-sorted-lists) |
+| [0044-wildcard-matching](https://github.com/Roshansingh9/LeetCode/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/Roshansingh9/LeetCode/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/Roshansingh9/LeetCode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/Roshansingh9/LeetCode/tree/master/0206-reverse-linked-list) |
@@ -387,6 +390,7 @@ This repository contains a collection of LeetCode solutions I have worked on, ca
 | ------- |
 | [0022-generate-parentheses](https://github.com/Roshansingh9/LeetCode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Roshansingh9/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0044-wildcard-matching](https://github.com/Roshansingh9/LeetCode/tree/master/0044-wildcard-matching) |
 | [0062-unique-paths](https://github.com/Roshansingh9/LeetCode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Roshansingh9/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Roshansingh9/LeetCode/tree/master/0064-minimum-path-sum) |
