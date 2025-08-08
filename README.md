@@ -138,6 +138,7 @@ This repository contains a collection of LeetCode solutions I have worked on, ca
 | [0283-move-zeroes](https://github.com/Roshansingh9/LeetCode/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/Roshansingh9/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Roshansingh9/LeetCode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
+| [0312-burst-balloons](https://github.com/Roshansingh9/LeetCode/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/Roshansingh9/LeetCode/tree/master/0322-coin-change) |
 | [0324-wiggle-sort-ii](https://github.com/Roshansingh9/LeetCode/tree/master/0324-wiggle-sort-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Roshansingh9/LeetCode/tree/master/0347-top-k-frequent-elements) |
@@ -419,6 +420,7 @@ This repository contains a collection of LeetCode solutions I have worked on, ca
 | [0213-house-robber-ii](https://github.com/Roshansingh9/LeetCode/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Roshansingh9/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Roshansingh9/LeetCode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
+| [0312-burst-balloons](https://github.com/Roshansingh9/LeetCode/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/Roshansingh9/LeetCode/tree/master/0322-coin-change) |
 | [0354-russian-doll-envelopes](https://github.com/Roshansingh9/LeetCode/tree/master/0354-russian-doll-envelopes) |
 | [0416-partition-equal-subset-sum](https://github.com/Roshansingh9/LeetCode/tree/master/0416-partition-equal-subset-sum) |
