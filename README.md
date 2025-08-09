@@ -326,6 +326,7 @@ This repository contains a collection of LeetCode solutions I have worked on, ca
 | [0455-assign-cookies](https://github.com/Roshansingh9/LeetCode/tree/master/0455-assign-cookies) |
 | [1019-squares-of-a-sorted-array](https://github.com/Roshansingh9/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Roshansingh9/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Roshansingh9/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/Roshansingh9/LeetCode/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
 ## Binary Search
 |  |
@@ -557,6 +558,7 @@ This repository contains a collection of LeetCode solutions I have worked on, ca
 | [0206-reverse-linked-list](https://github.com/Roshansingh9/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Roshansingh9/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Roshansingh9/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Roshansingh9/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Tree
 |  |
 | ------- |
