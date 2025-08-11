@@ -454,6 +454,7 @@ This repository contains a collection of LeetCode solutions I have worked on, ca
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/Roshansingh9/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Roshansingh9/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Reservoir Sampling
 |  |
@@ -541,6 +542,7 @@ This repository contains a collection of LeetCode solutions I have worked on, ca
 | [0094-binary-tree-inorder-traversal](https://github.com/Roshansingh9/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/Roshansingh9/LeetCode/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Roshansingh9/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0225-implement-stack-using-queues](https://github.com/Roshansingh9/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/Roshansingh9/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [1078-remove-outermost-parentheses](https://github.com/Roshansingh9/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 ## Monotonic Stack
@@ -574,4 +576,8 @@ This repository contains a collection of LeetCode solutions I have worked on, ca
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Roshansingh9/LeetCode/tree/master/0062-unique-paths) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Roshansingh9/LeetCode/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
