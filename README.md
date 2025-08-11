@@ -156,6 +156,7 @@ This repository contains a collection of LeetCode solutions I have worked on, ca
 | [0638-shopping-offers](https://github.com/Roshansingh9/LeetCode/tree/master/0638-shopping-offers) |
 | [0661-image-smoother](https://github.com/Roshansingh9/LeetCode/tree/master/0661-image-smoother) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Roshansingh9/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0735-asteroid-collision](https://github.com/Roshansingh9/LeetCode/tree/master/0735-asteroid-collision) |
 | [0792-binary-search](https://github.com/Roshansingh9/LeetCode/tree/master/0792-binary-search) |
 | [0870-magic-squares-in-grid](https://github.com/Roshansingh9/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [0914-random-point-in-non-overlapping-rectangles](https://github.com/Roshansingh9/LeetCode/tree/master/0914-random-point-in-non-overlapping-rectangles) |
@@ -275,6 +276,7 @@ This repository contains a collection of LeetCode solutions I have worked on, ca
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/Roshansingh9/LeetCode/tree/master/0735-asteroid-collision) |
 | [0921-spiral-matrix-iii](https://github.com/Roshansingh9/LeetCode/tree/master/0921-spiral-matrix-iii) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Roshansingh9/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Roshansingh9/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -554,6 +556,7 @@ This repository contains a collection of LeetCode solutions I have worked on, ca
 | [0234-palindrome-linked-list](https://github.com/Roshansingh9/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Roshansingh9/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Roshansingh9/LeetCode/tree/master/0503-next-greater-element-ii) |
+| [0735-asteroid-collision](https://github.com/Roshansingh9/LeetCode/tree/master/0735-asteroid-collision) |
 | [0943-sum-of-subarray-minimums](https://github.com/Roshansingh9/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
 | [1078-remove-outermost-parentheses](https://github.com/Roshansingh9/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 ## Monotonic Stack
