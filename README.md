@@ -566,6 +566,7 @@ This repository contains a collection of LeetCode solutions I have worked on, ca
 | [0496-next-greater-element-i](https://github.com/Roshansingh9/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Roshansingh9/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/Roshansingh9/LeetCode/tree/master/0735-asteroid-collision) |
+| [0937-online-stock-span](https://github.com/Roshansingh9/LeetCode/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/Roshansingh9/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
 | [1078-remove-outermost-parentheses](https://github.com/Roshansingh9/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 ## Monotonic Stack
@@ -577,6 +578,7 @@ This repository contains a collection of LeetCode solutions I have worked on, ca
 | [0402-remove-k-digits](https://github.com/Roshansingh9/LeetCode/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Roshansingh9/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Roshansingh9/LeetCode/tree/master/0503-next-greater-element-ii) |
+| [0937-online-stock-span](https://github.com/Roshansingh9/LeetCode/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/Roshansingh9/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
 ## Linked List
 |  |
@@ -611,4 +613,9 @@ This repository contains a collection of LeetCode solutions I have worked on, ca
 | [0155-min-stack](https://github.com/Roshansingh9/LeetCode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Roshansingh9/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Roshansingh9/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+| [0937-online-stock-span](https://github.com/Roshansingh9/LeetCode/tree/master/0937-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/Roshansingh9/LeetCode/tree/master/0937-online-stock-span) |
 <!---LeetCode Topics End-->
