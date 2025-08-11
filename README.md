@@ -117,6 +117,7 @@ This repository contains a collection of LeetCode solutions I have worked on, ca
 | [0075-sort-colors](https://github.com/Roshansingh9/LeetCode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Roshansingh9/LeetCode/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Roshansingh9/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/Roshansingh9/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0090-subsets-ii](https://github.com/Roshansingh9/LeetCode/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/Roshansingh9/LeetCode/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/Roshansingh9/LeetCode/tree/master/0120-triangle) |
@@ -376,6 +377,7 @@ This repository contains a collection of LeetCode solutions I have worked on, ca
 | ------- |
 | [0063-unique-paths-ii](https://github.com/Roshansingh9/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Roshansingh9/LeetCode/tree/master/0064-minimum-path-sum) |
+| [0085-maximal-rectangle](https://github.com/Roshansingh9/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0661-image-smoother](https://github.com/Roshansingh9/LeetCode/tree/master/0661-image-smoother) |
 | [0870-magic-squares-in-grid](https://github.com/Roshansingh9/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/Roshansingh9/LeetCode/tree/master/0921-spiral-matrix-iii) |
@@ -422,6 +424,7 @@ This repository contains a collection of LeetCode solutions I have worked on, ca
 | [0064-minimum-path-sum](https://github.com/Roshansingh9/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Roshansingh9/LeetCode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Roshansingh9/LeetCode/tree/master/0072-edit-distance) |
+| [0085-maximal-rectangle](https://github.com/Roshansingh9/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0115-distinct-subsequences](https://github.com/Roshansingh9/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/Roshansingh9/LeetCode/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/Roshansingh9/LeetCode/tree/master/0120-triangle) |
@@ -549,6 +552,7 @@ This repository contains a collection of LeetCode solutions I have worked on, ca
 | [0020-valid-parentheses](https://github.com/Roshansingh9/LeetCode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Roshansingh9/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Roshansingh9/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/Roshansingh9/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Roshansingh9/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/Roshansingh9/LeetCode/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Roshansingh9/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
@@ -566,6 +570,7 @@ This repository contains a collection of LeetCode solutions I have worked on, ca
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Roshansingh9/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Roshansingh9/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/Roshansingh9/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/Roshansingh9/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Roshansingh9/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0943-sum-of-subarray-minimums](https://github.com/Roshansingh9/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
