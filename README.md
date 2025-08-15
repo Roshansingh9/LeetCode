@@ -169,6 +169,7 @@ This repository contains a collection of LeetCode solutions I have worked on, ca
 | [0967-minimum-falling-path-sum](https://github.com/Roshansingh9/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [0999-regions-cut-by-slashes](https://github.com/Roshansingh9/LeetCode/tree/master/0999-regions-cut-by-slashes) |
 | [1019-squares-of-a-sorted-array](https://github.com/Roshansingh9/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Roshansingh9/LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1121-partition-array-for-maximum-sum](https://github.com/Roshansingh9/LeetCode/tree/master/1121-partition-array-for-maximum-sum) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Roshansingh9/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Roshansingh9/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -594,6 +595,7 @@ This repository contains a collection of LeetCode solutions I have worked on, ca
 | [0735-asteroid-collision](https://github.com/Roshansingh9/LeetCode/tree/master/0735-asteroid-collision) |
 | [0937-online-stock-span](https://github.com/Roshansingh9/LeetCode/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/Roshansingh9/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Roshansingh9/LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1078-remove-outermost-parentheses](https://github.com/Roshansingh9/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 ## Monotonic Stack
 |  |
@@ -606,6 +608,7 @@ This repository contains a collection of LeetCode solutions I have worked on, ca
 | [0503-next-greater-element-ii](https://github.com/Roshansingh9/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0937-online-stock-span](https://github.com/Roshansingh9/LeetCode/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/Roshansingh9/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Roshansingh9/LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Linked List
 |  |
 | ------- |
@@ -641,6 +644,7 @@ This repository contains a collection of LeetCode solutions I have worked on, ca
 | [0450-delete-node-in-a-bst](https://github.com/Roshansingh9/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Roshansingh9/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Roshansingh9/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Roshansingh9/LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
@@ -663,6 +667,7 @@ This repository contains a collection of LeetCode solutions I have worked on, ca
 | [0450-delete-node-in-a-bst](https://github.com/Roshansingh9/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Roshansingh9/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Roshansingh9/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Roshansingh9/LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Combinatorics
 |  |
 | ------- |
@@ -690,4 +695,5 @@ This repository contains a collection of LeetCode solutions I have worked on, ca
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Roshansingh9/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/Roshansingh9/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Roshansingh9/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Roshansingh9/LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 <!---LeetCode Topics End-->
