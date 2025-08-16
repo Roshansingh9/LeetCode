@@ -411,6 +411,7 @@ This repository contains a collection of LeetCode solutions I have worked on, ca
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Roshansingh9/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Roshansingh9/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Roshansingh9/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/Roshansingh9/LeetCode/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Roshansingh9/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0999-regions-cut-by-slashes](https://github.com/Roshansingh9/LeetCode/tree/master/0999-regions-cut-by-slashes) |
 ## Breadth-First Search
@@ -423,12 +424,14 @@ This repository contains a collection of LeetCode solutions I have worked on, ca
 | [0104-maximum-depth-of-binary-tree](https://github.com/Roshansingh9/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Roshansingh9/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0322-coin-change](https://github.com/Roshansingh9/LeetCode/tree/master/0322-coin-change) |
+| [0547-number-of-provinces](https://github.com/Roshansingh9/LeetCode/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Roshansingh9/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0999-regions-cut-by-slashes](https://github.com/Roshansingh9/LeetCode/tree/master/0999-regions-cut-by-slashes) |
 ## Union Find
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Roshansingh9/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0547-number-of-provinces](https://github.com/Roshansingh9/LeetCode/tree/master/0547-number-of-provinces) |
 | [0999-regions-cut-by-slashes](https://github.com/Roshansingh9/LeetCode/tree/master/0999-regions-cut-by-slashes) |
 ## Prefix Sum
 |  |
@@ -570,6 +573,7 @@ This repository contains a collection of LeetCode solutions I have worked on, ca
 ## Graph
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/Roshansingh9/LeetCode/tree/master/0547-number-of-provinces) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Roshansingh9/LeetCode/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Shortest Path
 |  |
