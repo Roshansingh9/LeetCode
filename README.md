@@ -425,6 +425,7 @@ This repository contains a collection of LeetCode solutions I have worked on, ca
 | [0547-number-of-provinces](https://github.com/Roshansingh9/LeetCode/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Roshansingh9/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/Roshansingh9/LeetCode/tree/master/0733-flood-fill) |
+| [0801-is-graph-bipartite](https://github.com/Roshansingh9/LeetCode/tree/master/0801-is-graph-bipartite) |
 | [0999-regions-cut-by-slashes](https://github.com/Roshansingh9/LeetCode/tree/master/0999-regions-cut-by-slashes) |
 | [1073-number-of-enclaves](https://github.com/Roshansingh9/LeetCode/tree/master/1073-number-of-enclaves) |
 ## Breadth-First Search
@@ -442,6 +443,7 @@ This repository contains a collection of LeetCode solutions I have worked on, ca
 | [0547-number-of-provinces](https://github.com/Roshansingh9/LeetCode/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Roshansingh9/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/Roshansingh9/LeetCode/tree/master/0733-flood-fill) |
+| [0801-is-graph-bipartite](https://github.com/Roshansingh9/LeetCode/tree/master/0801-is-graph-bipartite) |
 | [0999-regions-cut-by-slashes](https://github.com/Roshansingh9/LeetCode/tree/master/0999-regions-cut-by-slashes) |
 | [1036-rotting-oranges](https://github.com/Roshansingh9/LeetCode/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Roshansingh9/LeetCode/tree/master/1073-number-of-enclaves) |
@@ -451,6 +453,7 @@ This repository contains a collection of LeetCode solutions I have worked on, ca
 | [0128-longest-consecutive-sequence](https://github.com/Roshansingh9/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/Roshansingh9/LeetCode/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/Roshansingh9/LeetCode/tree/master/0547-number-of-provinces) |
+| [0801-is-graph-bipartite](https://github.com/Roshansingh9/LeetCode/tree/master/0801-is-graph-bipartite) |
 | [0999-regions-cut-by-slashes](https://github.com/Roshansingh9/LeetCode/tree/master/0999-regions-cut-by-slashes) |
 | [1073-number-of-enclaves](https://github.com/Roshansingh9/LeetCode/tree/master/1073-number-of-enclaves) |
 ## Prefix Sum
@@ -595,6 +598,7 @@ This repository contains a collection of LeetCode solutions I have worked on, ca
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Roshansingh9/LeetCode/tree/master/0547-number-of-provinces) |
+| [0801-is-graph-bipartite](https://github.com/Roshansingh9/LeetCode/tree/master/0801-is-graph-bipartite) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Roshansingh9/LeetCode/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Shortest Path
 |  |
