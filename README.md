@@ -181,6 +181,7 @@ This repository contains a collection of LeetCode solutions I have worked on, ca
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Roshansingh9/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Roshansingh9/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/Roshansingh9/LeetCode/tree/master/1669-minimum-cost-to-cut-a-stick) |
+| [1753-path-with-minimum-effort](https://github.com/Roshansingh9/LeetCode/tree/master/1753-path-with-minimum-effort) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Roshansingh9/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Roshansingh9/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Roshansingh9/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -286,6 +287,7 @@ This repository contains a collection of LeetCode solutions I have worked on, ca
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Roshansingh9/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/Roshansingh9/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [1753-path-with-minimum-effort](https://github.com/Roshansingh9/LeetCode/tree/master/1753-path-with-minimum-effort) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Roshansingh9/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## Simulation
 |  |
@@ -364,6 +366,7 @@ This repository contains a collection of LeetCode solutions I have worked on, ca
 | [0792-binary-search](https://github.com/Roshansingh9/LeetCode/tree/master/0792-binary-search) |
 | [0914-random-point-in-non-overlapping-rectangles](https://github.com/Roshansingh9/LeetCode/tree/master/0914-random-point-in-non-overlapping-rectangles) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Roshansingh9/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [1753-path-with-minimum-effort](https://github.com/Roshansingh9/LeetCode/tree/master/1753-path-with-minimum-effort) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Roshansingh9/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/Roshansingh9/LeetCode/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
 ## Counting
@@ -404,6 +407,7 @@ This repository contains a collection of LeetCode solutions I have worked on, ca
 | [1036-rotting-oranges](https://github.com/Roshansingh9/LeetCode/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Roshansingh9/LeetCode/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Roshansingh9/LeetCode/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1753-path-with-minimum-effort](https://github.com/Roshansingh9/LeetCode/tree/master/1753-path-with-minimum-effort) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Roshansingh9/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Depth-First Search
 |  |
@@ -432,6 +436,7 @@ This repository contains a collection of LeetCode solutions I have worked on, ca
 | [0801-is-graph-bipartite](https://github.com/Roshansingh9/LeetCode/tree/master/0801-is-graph-bipartite) |
 | [0999-regions-cut-by-slashes](https://github.com/Roshansingh9/LeetCode/tree/master/0999-regions-cut-by-slashes) |
 | [1073-number-of-enclaves](https://github.com/Roshansingh9/LeetCode/tree/master/1073-number-of-enclaves) |
+| [1753-path-with-minimum-effort](https://github.com/Roshansingh9/LeetCode/tree/master/1753-path-with-minimum-effort) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -454,6 +459,7 @@ This repository contains a collection of LeetCode solutions I have worked on, ca
 | [1036-rotting-oranges](https://github.com/Roshansingh9/LeetCode/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Roshansingh9/LeetCode/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Roshansingh9/LeetCode/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1753-path-with-minimum-effort](https://github.com/Roshansingh9/LeetCode/tree/master/1753-path-with-minimum-effort) |
 ## Union Find
 |  |
 | ------- |
@@ -463,6 +469,7 @@ This repository contains a collection of LeetCode solutions I have worked on, ca
 | [0801-is-graph-bipartite](https://github.com/Roshansingh9/LeetCode/tree/master/0801-is-graph-bipartite) |
 | [0999-regions-cut-by-slashes](https://github.com/Roshansingh9/LeetCode/tree/master/0999-regions-cut-by-slashes) |
 | [1073-number-of-enclaves](https://github.com/Roshansingh9/LeetCode/tree/master/1073-number-of-enclaves) |
+| [1753-path-with-minimum-effort](https://github.com/Roshansingh9/LeetCode/tree/master/1753-path-with-minimum-effort) |
 ## Prefix Sum
 |  |
 | ------- |
