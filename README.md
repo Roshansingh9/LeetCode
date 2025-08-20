@@ -575,6 +575,7 @@ This repository contains a collection of LeetCode solutions I have worked on, ca
 | [0638-shopping-offers](https://github.com/Roshansingh9/LeetCode/tree/master/0638-shopping-offers) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Roshansingh9/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/Roshansingh9/LeetCode/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
+| [2323-minimum-bit-flips-to-convert-number](https://github.com/Roshansingh9/LeetCode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Rolling Hash
 |  |
 | ------- |
