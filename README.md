@@ -127,6 +127,7 @@ This repository contains a collection of LeetCode solutions I have worked on, ca
 | [0128-longest-consecutive-sequence](https://github.com/Roshansingh9/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/Roshansingh9/LeetCode/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/Roshansingh9/LeetCode/tree/master/0134-gas-station) |
+| [0136-single-number](https://github.com/Roshansingh9/LeetCode/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Roshansingh9/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Roshansingh9/LeetCode/tree/master/0169-majority-element) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Roshansingh9/LeetCode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
@@ -568,6 +569,7 @@ This repository contains a collection of LeetCode solutions I have worked on, ca
 | [0029-divide-two-integers](https://github.com/Roshansingh9/LeetCode/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/Roshansingh9/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Roshansingh9/LeetCode/tree/master/0090-subsets-ii) |
+| [0136-single-number](https://github.com/Roshansingh9/LeetCode/tree/master/0136-single-number) |
 | [0187-repeated-dna-sequences](https://github.com/Roshansingh9/LeetCode/tree/master/0187-repeated-dna-sequences) |
 | [0222-count-complete-tree-nodes](https://github.com/Roshansingh9/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/Roshansingh9/LeetCode/tree/master/0231-power-of-two) |
