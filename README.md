@@ -133,6 +133,7 @@ This repository contains a collection of LeetCode solutions I have worked on, ca
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Roshansingh9/LeetCode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0189-rotate-array](https://github.com/Roshansingh9/LeetCode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Roshansingh9/LeetCode/tree/master/0198-house-robber) |
+| [0204-count-primes](https://github.com/Roshansingh9/LeetCode/tree/master/0204-count-primes) |
 | [0213-house-robber-ii](https://github.com/Roshansingh9/LeetCode/tree/master/0213-house-robber-ii) |
 | [0216-combination-sum-iii](https://github.com/Roshansingh9/LeetCode/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/Roshansingh9/LeetCode/tree/master/0217-contains-duplicate) |
@@ -230,6 +231,7 @@ This repository contains a collection of LeetCode solutions I have worked on, ca
 | [0070-climbing-stairs](https://github.com/Roshansingh9/LeetCode/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/Roshansingh9/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0189-rotate-array](https://github.com/Roshansingh9/LeetCode/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/Roshansingh9/LeetCode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Roshansingh9/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Roshansingh9/LeetCode/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/Roshansingh9/LeetCode/tree/master/0273-integer-to-english-words) |
@@ -489,6 +491,7 @@ This repository contains a collection of LeetCode solutions I have worked on, ca
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Roshansingh9/LeetCode/tree/master/0204-count-primes) |
 | [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/Roshansingh9/LeetCode/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
 ## Dynamic Programming
 |  |
@@ -787,4 +790,8 @@ This repository contains a collection of LeetCode solutions I have worked on, ca
 | [0207-course-schedule](https://github.com/Roshansingh9/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Roshansingh9/LeetCode/tree/master/0210-course-schedule-ii) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Roshansingh9/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Roshansingh9/LeetCode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
