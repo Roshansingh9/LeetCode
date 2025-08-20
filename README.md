@@ -228,6 +228,7 @@ This repository contains a collection of LeetCode solutions I have worked on, ca
 | [0070-climbing-stairs](https://github.com/Roshansingh9/LeetCode/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/Roshansingh9/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0189-rotate-array](https://github.com/Roshansingh9/LeetCode/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/Roshansingh9/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Roshansingh9/LeetCode/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/Roshansingh9/LeetCode/tree/master/0273-integer-to-english-words) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Roshansingh9/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -386,6 +387,7 @@ This repository contains a collection of LeetCode solutions I have worked on, ca
 | [0050-powx-n](https://github.com/Roshansingh9/LeetCode/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/Roshansingh9/LeetCode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/Roshansingh9/LeetCode/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/Roshansingh9/LeetCode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Roshansingh9/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0273-integer-to-english-words](https://github.com/Roshansingh9/LeetCode/tree/master/0273-integer-to-english-words) |
 | [1013-fibonacci-number](https://github.com/Roshansingh9/LeetCode/tree/master/1013-fibonacci-number) |
@@ -566,6 +568,7 @@ This repository contains a collection of LeetCode solutions I have worked on, ca
 | [0090-subsets-ii](https://github.com/Roshansingh9/LeetCode/tree/master/0090-subsets-ii) |
 | [0187-repeated-dna-sequences](https://github.com/Roshansingh9/LeetCode/tree/master/0187-repeated-dna-sequences) |
 | [0222-count-complete-tree-nodes](https://github.com/Roshansingh9/LeetCode/tree/master/0222-count-complete-tree-nodes) |
+| [0231-power-of-two](https://github.com/Roshansingh9/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Roshansingh9/LeetCode/tree/master/0268-missing-number) |
 | [0638-shopping-offers](https://github.com/Roshansingh9/LeetCode/tree/master/0638-shopping-offers) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Roshansingh9/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
