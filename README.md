@@ -223,6 +223,7 @@ This repository contains a collection of LeetCode solutions I have worked on, ca
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Roshansingh9/LeetCode/tree/master/0009-palindrome-number) |
+| [0029-divide-two-integers](https://github.com/Roshansingh9/LeetCode/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/Roshansingh9/LeetCode/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Roshansingh9/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Roshansingh9/LeetCode/tree/master/0070-climbing-stairs) |
@@ -564,6 +565,7 @@ This repository contains a collection of LeetCode solutions I have worked on, ca
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Roshansingh9/LeetCode/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/Roshansingh9/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Roshansingh9/LeetCode/tree/master/0090-subsets-ii) |
 | [0187-repeated-dna-sequences](https://github.com/Roshansingh9/LeetCode/tree/master/0187-repeated-dna-sequences) |
