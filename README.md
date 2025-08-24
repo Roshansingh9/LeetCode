@@ -118,6 +118,7 @@ This repository contains a collection of LeetCode solutions I have worked on, ca
 | [0063-unique-paths-ii](https://github.com/Roshansingh9/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Roshansingh9/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Roshansingh9/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/Roshansingh9/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Roshansingh9/LeetCode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Roshansingh9/LeetCode/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Roshansingh9/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
@@ -375,6 +376,7 @@ This repository contains a collection of LeetCode solutions I have worked on, ca
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Roshansingh9/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Roshansingh9/LeetCode/tree/master/0035-search-insert-position) |
+| [0074-search-a-2d-matrix](https://github.com/Roshansingh9/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Roshansingh9/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0222-count-complete-tree-nodes](https://github.com/Roshansingh9/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/Roshansingh9/LeetCode/tree/master/0268-missing-number) |
@@ -417,6 +419,7 @@ This repository contains a collection of LeetCode solutions I have worked on, ca
 | [0063-unique-paths-ii](https://github.com/Roshansingh9/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Roshansingh9/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Roshansingh9/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/Roshansingh9/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/Roshansingh9/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/Roshansingh9/LeetCode/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/Roshansingh9/LeetCode/tree/master/0542-01-matrix) |
