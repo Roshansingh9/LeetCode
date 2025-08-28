@@ -17,8 +17,8 @@ public:
 
             if(t1 == t2) return t1;
 
-            if(t1 == NULL) t1=headB;
-            if(t2 == NULL) t2=headA;
+            if(t1 == nullptr) t1=headB;
+            if(t2 == nullptr) t2=headA;
         }
         return t1;
     }
