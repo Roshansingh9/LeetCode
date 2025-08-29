@@ -362,6 +362,7 @@ This repository contains a collection of LeetCode solutions I have worked on, ca
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Roshansingh9/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/Roshansingh9/LeetCode/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/Roshansingh9/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0061-rotate-list](https://github.com/Roshansingh9/LeetCode/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/Roshansingh9/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Roshansingh9/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Roshansingh9/LeetCode/tree/master/0141-linked-list-cycle) |
@@ -724,6 +725,7 @@ This repository contains a collection of LeetCode solutions I have worked on, ca
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Roshansingh9/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Roshansingh9/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Roshansingh9/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
+| [0061-rotate-list](https://github.com/Roshansingh9/LeetCode/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/Roshansingh9/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Roshansingh9/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/Roshansingh9/LeetCode/tree/master/0143-reorder-list) |
