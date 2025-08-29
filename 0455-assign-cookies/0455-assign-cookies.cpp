@@ -3,16 +3,17 @@ public:
     int findContentChildren(vector<int>& g, vector<int>& s) {
         sort(g.begin(),g.end());
         sort(s.begin(),s.end());
-        int a=0,b=0,count=0;
-        while(a<g.size() && b<s.size()){
-            if (g[a]<=s[b]){
-                count++;
-                a++;
-                b++;
+        int n=g.size();
+        int m=s.size();
+        int i=0,j=0;
+        while(i<n && j<m){
+            if(g[i]<=s[j]){
+                i++;
+                j++;
             }else{
-                b++;
+                j++;
             }
         }
-        return count;
+        return i;
     }
 };
