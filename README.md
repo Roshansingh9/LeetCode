@@ -844,4 +844,8 @@ This repository contains a collection of LeetCode solutions I have worked on, ca
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Roshansingh9/LeetCode/tree/master/0204-count-primes) |
+## Database
+|  |
+| ------- |
+| [0595-big-countries](https://github.com/Roshansingh9/LeetCode/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
