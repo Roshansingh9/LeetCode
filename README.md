@@ -852,4 +852,5 @@ This repository contains a collection of LeetCode solutions I have worked on, ca
 | [0595-big-countries](https://github.com/Roshansingh9/LeetCode/tree/master/0595-big-countries) |
 | [1153-product-sales-analysis-i](https://github.com/Roshansingh9/LeetCode/tree/master/1153-product-sales-analysis-i) |
 | [1827-invalid-tweets](https://github.com/Roshansingh9/LeetCode/tree/master/1827-invalid-tweets) |
+| [2087-confirmation-rate](https://github.com/Roshansingh9/LeetCode/tree/master/2087-confirmation-rate) |
 <!---LeetCode Topics End-->
