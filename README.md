@@ -859,5 +859,6 @@ This repository contains a collection of LeetCode solutions I have worked on, ca
 | [1327-last-person-to-fit-in-the-bus](https://github.com/Roshansingh9/LeetCode/tree/master/1327-last-person-to-fit-in-the-bus) |
 | [1390-average-selling-price](https://github.com/Roshansingh9/LeetCode/tree/master/1390-average-selling-price) |
 | [1827-invalid-tweets](https://github.com/Roshansingh9/LeetCode/tree/master/1827-invalid-tweets) |
+| [2057-count-salary-categories](https://github.com/Roshansingh9/LeetCode/tree/master/2057-count-salary-categories) |
 | [2087-confirmation-rate](https://github.com/Roshansingh9/LeetCode/tree/master/2087-confirmation-rate) |
 <!---LeetCode Topics End-->
