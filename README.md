@@ -861,4 +861,5 @@ This repository contains a collection of LeetCode solutions I have worked on, ca
 | [1827-invalid-tweets](https://github.com/Roshansingh9/LeetCode/tree/master/1827-invalid-tweets) |
 | [2057-count-salary-categories](https://github.com/Roshansingh9/LeetCode/tree/master/2057-count-salary-categories) |
 | [2087-confirmation-rate](https://github.com/Roshansingh9/LeetCode/tree/master/2087-confirmation-rate) |
+| [2127-employees-whose-manager-left-the-company](https://github.com/Roshansingh9/LeetCode/tree/master/2127-employees-whose-manager-left-the-company) |
 <!---LeetCode Topics End-->
