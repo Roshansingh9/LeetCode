@@ -851,6 +851,7 @@ This repository contains a collection of LeetCode solutions I have worked on, ca
 | [0197-rising-temperature](https://github.com/Roshansingh9/LeetCode/tree/master/0197-rising-temperature) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/Roshansingh9/LeetCode/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0595-big-countries](https://github.com/Roshansingh9/LeetCode/tree/master/0595-big-countries) |
+| [0626-exchange-seats](https://github.com/Roshansingh9/LeetCode/tree/master/0626-exchange-seats) |
 | [1135-customers-who-bought-all-products](https://github.com/Roshansingh9/LeetCode/tree/master/1135-customers-who-bought-all-products) |
 | [1153-product-sales-analysis-i](https://github.com/Roshansingh9/LeetCode/tree/master/1153-product-sales-analysis-i) |
 | [1155-product-sales-analysis-iii](https://github.com/Roshansingh9/LeetCode/tree/master/1155-product-sales-analysis-iii) |
