@@ -856,6 +856,7 @@ This repository contains a collection of LeetCode solutions I have worked on, ca
 | [1155-product-sales-analysis-iii](https://github.com/Roshansingh9/LeetCode/tree/master/1155-product-sales-analysis-iii) |
 | [1182-game-play-analysis-iv](https://github.com/Roshansingh9/LeetCode/tree/master/1182-game-play-analysis-iv) |
 | [1278-product-price-at-a-given-date](https://github.com/Roshansingh9/LeetCode/tree/master/1278-product-price-at-a-given-date) |
+| [1327-last-person-to-fit-in-the-bus](https://github.com/Roshansingh9/LeetCode/tree/master/1327-last-person-to-fit-in-the-bus) |
 | [1390-average-selling-price](https://github.com/Roshansingh9/LeetCode/tree/master/1390-average-selling-price) |
 | [1827-invalid-tweets](https://github.com/Roshansingh9/LeetCode/tree/master/1827-invalid-tweets) |
 | [2087-confirmation-rate](https://github.com/Roshansingh9/LeetCode/tree/master/2087-confirmation-rate) |
