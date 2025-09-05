@@ -256,6 +256,7 @@ This repository contains a collection of LeetCode solutions I have worked on, ca
 | [0231-power-of-two](https://github.com/Roshansingh9/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Roshansingh9/LeetCode/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/Roshansingh9/LeetCode/tree/master/0273-integer-to-english-words) |
+| [0371-sum-of-two-integers](https://github.com/Roshansingh9/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Roshansingh9/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0870-magic-squares-in-grid](https://github.com/Roshansingh9/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [0914-random-point-in-non-overlapping-rectangles](https://github.com/Roshansingh9/LeetCode/tree/master/0914-random-point-in-non-overlapping-rectangles) |
@@ -623,6 +624,7 @@ This repository contains a collection of LeetCode solutions I have worked on, ca
 | [0231-power-of-two](https://github.com/Roshansingh9/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Roshansingh9/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Roshansingh9/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0371-sum-of-two-integers](https://github.com/Roshansingh9/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0638-shopping-offers](https://github.com/Roshansingh9/LeetCode/tree/master/0638-shopping-offers) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Roshansingh9/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/Roshansingh9/LeetCode/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
