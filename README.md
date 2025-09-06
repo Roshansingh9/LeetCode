@@ -118,6 +118,7 @@ This repository contains a collection of LeetCode solutions I have worked on, ca
 | [0048-rotate-image](https://github.com/Roshansingh9/LeetCode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Roshansingh9/LeetCode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Roshansingh9/LeetCode/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/Roshansingh9/LeetCode/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/Roshansingh9/LeetCode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Roshansingh9/LeetCode/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/Roshansingh9/LeetCode/tree/master/0063-unique-paths-ii) |
@@ -326,6 +327,7 @@ This repository contains a collection of LeetCode solutions I have worked on, ca
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Roshansingh9/LeetCode/tree/master/0054-spiral-matrix) |
 | [0735-asteroid-collision](https://github.com/Roshansingh9/LeetCode/tree/master/0735-asteroid-collision) |
 | [0921-spiral-matrix-iii](https://github.com/Roshansingh9/LeetCode/tree/master/0921-spiral-matrix-iii) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Roshansingh9/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -445,6 +447,7 @@ This repository contains a collection of LeetCode solutions I have worked on, ca
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Roshansingh9/LeetCode/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/Roshansingh9/LeetCode/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/Roshansingh9/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Roshansingh9/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Roshansingh9/LeetCode/tree/master/0073-set-matrix-zeroes) |
