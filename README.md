@@ -267,6 +267,7 @@ This repository contains a collection of LeetCode solutions I have worked on, ca
 | [1013-fibonacci-number](https://github.com/Roshansingh9/LeetCode/tree/master/1013-fibonacci-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Roshansingh9/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1501-circle-and-rectangle-overlapping](https://github.com/Roshansingh9/LeetCode/tree/master/1501-circle-and-rectangle-overlapping) |
+| [1642-water-bottles](https://github.com/Roshansingh9/LeetCode/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Roshansingh9/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2050-count-good-numbers](https://github.com/Roshansingh9/LeetCode/tree/master/2050-count-good-numbers) |
 ## Sliding Window
@@ -333,6 +334,7 @@ This repository contains a collection of LeetCode solutions I have worked on, ca
 | [0054-spiral-matrix](https://github.com/Roshansingh9/LeetCode/tree/master/0054-spiral-matrix) |
 | [0735-asteroid-collision](https://github.com/Roshansingh9/LeetCode/tree/master/0735-asteroid-collision) |
 | [0921-spiral-matrix-iii](https://github.com/Roshansingh9/LeetCode/tree/master/0921-spiral-matrix-iii) |
+| [1642-water-bottles](https://github.com/Roshansingh9/LeetCode/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Roshansingh9/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Roshansingh9/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Roshansingh9/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
