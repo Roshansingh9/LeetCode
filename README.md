@@ -167,6 +167,7 @@ This repository contains a collection of LeetCode solutions I have worked on, ca
 | [0324-wiggle-sort-ii](https://github.com/Roshansingh9/LeetCode/tree/master/0324-wiggle-sort-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Roshansingh9/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0354-russian-doll-envelopes](https://github.com/Roshansingh9/LeetCode/tree/master/0354-russian-doll-envelopes) |
+| [0407-trapping-rain-water-ii](https://github.com/Roshansingh9/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/Roshansingh9/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Roshansingh9/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Roshansingh9/LeetCode/tree/master/0455-assign-cookies) |
@@ -326,6 +327,7 @@ This repository contains a collection of LeetCode solutions I have worked on, ca
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Roshansingh9/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/Roshansingh9/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0407-trapping-rain-water-ii](https://github.com/Roshansingh9/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Roshansingh9/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1753-path-with-minimum-effort](https://github.com/Roshansingh9/LeetCode/tree/master/1753-path-with-minimum-effort) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Roshansingh9/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
@@ -463,6 +465,7 @@ This repository contains a collection of LeetCode solutions I have worked on, ca
 | [0079-word-search](https://github.com/Roshansingh9/LeetCode/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/Roshansingh9/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/Roshansingh9/LeetCode/tree/master/0130-surrounded-regions) |
+| [0407-trapping-rain-water-ii](https://github.com/Roshansingh9/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0542-01-matrix](https://github.com/Roshansingh9/LeetCode/tree/master/0542-01-matrix) |
 | [0661-image-smoother](https://github.com/Roshansingh9/LeetCode/tree/master/0661-image-smoother) |
 | [0733-flood-fill](https://github.com/Roshansingh9/LeetCode/tree/master/0733-flood-fill) |
@@ -521,6 +524,7 @@ This repository contains a collection of LeetCode solutions I have worked on, ca
 | [0210-course-schedule-ii](https://github.com/Roshansingh9/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/Roshansingh9/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/Roshansingh9/LeetCode/tree/master/0322-coin-change) |
+| [0407-trapping-rain-water-ii](https://github.com/Roshansingh9/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0542-01-matrix](https://github.com/Roshansingh9/LeetCode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Roshansingh9/LeetCode/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Roshansingh9/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
