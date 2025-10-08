@@ -213,6 +213,7 @@ This repository contains a collection of LeetCode solutions I have worked on, ca
 | [2132-convert-1d-array-into-2d-array](https://github.com/Roshansingh9/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Roshansingh9/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Roshansingh9/LeetCode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/Roshansingh9/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Roshansingh9/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2727-number-of-senior-citizens](https://github.com/Roshansingh9/LeetCode/tree/master/2727-number-of-senior-citizens) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Roshansingh9/LeetCode/tree/master/3235-minimum-cost-to-convert-string-i) |
@@ -325,6 +326,7 @@ This repository contains a collection of LeetCode solutions I have worked on, ca
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Roshansingh9/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Roshansingh9/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/Roshansingh9/LeetCode/tree/master/1669-minimum-cost-to-cut-a-stick) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/Roshansingh9/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Roshansingh9/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Roshansingh9/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Heap (Priority Queue)
@@ -412,6 +414,7 @@ This repository contains a collection of LeetCode solutions I have worked on, ca
 | [1019-squares-of-a-sorted-array](https://github.com/Roshansingh9/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Roshansingh9/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Roshansingh9/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/Roshansingh9/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/Roshansingh9/LeetCode/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
 ## Binary Search
 |  |
@@ -436,6 +439,7 @@ This repository contains a collection of LeetCode solutions I have worked on, ca
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Roshansingh9/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1753-path-with-minimum-effort](https://github.com/Roshansingh9/LeetCode/tree/master/1753-path-with-minimum-effort) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Roshansingh9/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/Roshansingh9/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/Roshansingh9/LeetCode/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
 ## Counting
 |  |
