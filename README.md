@@ -218,6 +218,7 @@ This repository contains a collection of LeetCode solutions I have worked on, ca
 | [2727-number-of-senior-citizens](https://github.com/Roshansingh9/LeetCode/tree/master/2727-number-of-senior-citizens) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Roshansingh9/LeetCode/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/Roshansingh9/LeetCode/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
+| [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Roshansingh9/LeetCode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Roshansingh9/LeetCode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Hash Table
 |  |
@@ -577,6 +578,7 @@ This repository contains a collection of LeetCode solutions I have worked on, ca
 | [0914-random-point-in-non-overlapping-rectangles](https://github.com/Roshansingh9/LeetCode/tree/master/0914-random-point-in-non-overlapping-rectangles) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Roshansingh9/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Roshansingh9/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Roshansingh9/LeetCode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Roshansingh9/LeetCode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Enumeration
 |  |
