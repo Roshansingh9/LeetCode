@@ -221,6 +221,7 @@ This repository contains a collection of LeetCode solutions I have worked on, ca
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Roshansingh9/LeetCode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Roshansingh9/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Roshansingh9/LeetCode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Roshansingh9/LeetCode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Hash Table
 |  |
 | ------- |
@@ -281,6 +282,7 @@ This repository contains a collection of LeetCode solutions I have worked on, ca
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Roshansingh9/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2050-count-good-numbers](https://github.com/Roshansingh9/LeetCode/tree/master/2050-count-good-numbers) |
 | [3336-water-bottles-ii](https://github.com/Roshansingh9/LeetCode/tree/master/3336-water-bottles-ii) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Roshansingh9/LeetCode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Sliding Window
 |  |
 | ------- |
@@ -647,6 +649,7 @@ This repository contains a collection of LeetCode solutions I have worked on, ca
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Roshansingh9/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/Roshansingh9/LeetCode/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Roshansingh9/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Roshansingh9/LeetCode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Geometry
 |  |
 | ------- |
@@ -690,6 +693,7 @@ This repository contains a collection of LeetCode solutions I have worked on, ca
 | [0934-bitwise-ors-of-subarrays](https://github.com/Roshansingh9/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/Roshansingh9/LeetCode/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Roshansingh9/LeetCode/tree/master/2323-minimum-bit-flips-to-convert-number) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Roshansingh9/LeetCode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -720,6 +724,7 @@ This repository contains a collection of LeetCode solutions I have worked on, ca
 | ------- |
 | [0638-shopping-offers](https://github.com/Roshansingh9/LeetCode/tree/master/0638-shopping-offers) |
 | [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/Roshansingh9/LeetCode/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Roshansingh9/LeetCode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -877,6 +882,7 @@ This repository contains a collection of LeetCode solutions I have worked on, ca
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Roshansingh9/LeetCode/tree/master/0062-unique-paths) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Roshansingh9/LeetCode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Design
 |  |
 | ------- |
