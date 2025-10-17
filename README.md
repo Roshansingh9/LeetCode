@@ -187,6 +187,7 @@ This repository contains a collection of LeetCode solutions I have worked on, ca
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Roshansingh9/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0733-flood-fill](https://github.com/Roshansingh9/LeetCode/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/Roshansingh9/LeetCode/tree/master/0735-asteroid-collision) |
+| [0747-min-cost-climbing-stairs](https://github.com/Roshansingh9/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/Roshansingh9/LeetCode/tree/master/0792-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/Roshansingh9/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [0870-magic-squares-in-grid](https://github.com/Roshansingh9/LeetCode/tree/master/0870-magic-squares-in-grid) |
@@ -641,6 +642,7 @@ This repository contains a collection of LeetCode solutions I have worked on, ca
 | [0583-delete-operation-for-two-strings](https://github.com/Roshansingh9/LeetCode/tree/master/0583-delete-operation-for-two-strings) |
 | [0638-shopping-offers](https://github.com/Roshansingh9/LeetCode/tree/master/0638-shopping-offers) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Roshansingh9/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0747-min-cost-climbing-stairs](https://github.com/Roshansingh9/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Roshansingh9/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Roshansingh9/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0943-sum-of-subarray-minimums](https://github.com/Roshansingh9/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
