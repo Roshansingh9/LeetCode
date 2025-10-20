@@ -399,6 +399,7 @@ This repository contains a collection of LeetCode solutions I have worked on, ca
 | [1170-shortest-common-supersequence](https://github.com/Roshansingh9/LeetCode/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/Roshansingh9/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Roshansingh9/LeetCode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Roshansingh9/LeetCode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/Roshansingh9/LeetCode/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Roshansingh9/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2727-number-of-senior-citizens](https://github.com/Roshansingh9/LeetCode/tree/master/2727-number-of-senior-citizens) |
@@ -553,6 +554,7 @@ This repository contains a collection of LeetCode solutions I have worked on, ca
 | [0803-cheapest-flights-within-k-stops](https://github.com/Roshansingh9/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0999-regions-cut-by-slashes](https://github.com/Roshansingh9/LeetCode/tree/master/0999-regions-cut-by-slashes) |
 | [1073-number-of-enclaves](https://github.com/Roshansingh9/LeetCode/tree/master/1073-number-of-enclaves) |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Roshansingh9/LeetCode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1753-path-with-minimum-effort](https://github.com/Roshansingh9/LeetCode/tree/master/1753-path-with-minimum-effort) |
 ## Breadth-First Search
 |  |
@@ -581,6 +583,7 @@ This repository contains a collection of LeetCode solutions I have worked on, ca
 | [1036-rotting-oranges](https://github.com/Roshansingh9/LeetCode/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Roshansingh9/LeetCode/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Roshansingh9/LeetCode/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Roshansingh9/LeetCode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1753-path-with-minimum-effort](https://github.com/Roshansingh9/LeetCode/tree/master/1753-path-with-minimum-effort) |
 ## Union Find
 |  |
@@ -608,6 +611,7 @@ This repository contains a collection of LeetCode solutions I have worked on, ca
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Roshansingh9/LeetCode/tree/master/0204-count-primes) |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Roshansingh9/LeetCode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/Roshansingh9/LeetCode/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
 ## Dynamic Programming
 |  |
