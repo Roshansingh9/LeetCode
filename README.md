@@ -226,6 +226,7 @@ This repository contains a collection of LeetCode solutions I have worked on, ca
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Roshansingh9/LeetCode/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Roshansingh9/LeetCode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Roshansingh9/LeetCode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
+| [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Roshansingh9/LeetCode/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Roshansingh9/LeetCode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Roshansingh9/LeetCode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Hash Table
@@ -300,6 +301,7 @@ This repository contains a collection of LeetCode solutions I have worked on, ca
 | [1370-count-number-of-nice-subarrays](https://github.com/Roshansingh9/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Roshansingh9/LeetCode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Roshansingh9/LeetCode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
+| [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Roshansingh9/LeetCode/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -349,6 +351,7 @@ This repository contains a collection of LeetCode solutions I have worked on, ca
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Roshansingh9/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Roshansingh9/LeetCode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Roshansingh9/LeetCode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
+| [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Roshansingh9/LeetCode/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -475,6 +478,7 @@ This repository contains a collection of LeetCode solutions I have worked on, ca
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Roshansingh9/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Roshansingh9/LeetCode/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Roshansingh9/LeetCode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
+| [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Roshansingh9/LeetCode/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 ## Counting
 |  |
 | ------- |
@@ -614,6 +618,7 @@ This repository contains a collection of LeetCode solutions I have worked on, ca
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Roshansingh9/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Roshansingh9/LeetCode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Roshansingh9/LeetCode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
+| [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Roshansingh9/LeetCode/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Roshansingh9/LeetCode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Enumeration
 |  |
