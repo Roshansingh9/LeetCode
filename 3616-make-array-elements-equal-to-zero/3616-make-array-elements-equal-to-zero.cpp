@@ -1,9 +1,9 @@
 class Solution {
 public:
     int countValidSelections(vector<int>& nums) {
-        int len = nums.size(), count = 0, left = 0, right = 0;
+        int n = nums.size(), count = 0, left = 0, right = 0;
         for (int v : nums) right += v;
-        for (int i = 0; i < len; i++) {
+        for (int i = 0; i < n; i++) {
             left += nums[i];
             right -= nums[i];
             if (nums[i] != 0) continue;
