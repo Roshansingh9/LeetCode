@@ -207,6 +207,7 @@ This repository contains a collection of LeetCode solutions I have worked on, ca
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Roshansingh9/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1612-avoid-flood-in-the-city](https://github.com/Roshansingh9/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Roshansingh9/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Roshansingh9/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/Roshansingh9/LeetCode/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1753-path-with-minimum-effort](https://github.com/Roshansingh9/LeetCode/tree/master/1753-path-with-minimum-effort) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Roshansingh9/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -324,6 +325,7 @@ This repository contains a collection of LeetCode solutions I have worked on, ca
 | [0455-assign-cookies](https://github.com/Roshansingh9/LeetCode/tree/master/0455-assign-cookies) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Roshansingh9/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1612-avoid-flood-in-the-city](https://github.com/Roshansingh9/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Roshansingh9/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Roshansingh9/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Roshansingh9/LeetCode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Roshansingh9/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -698,6 +700,7 @@ This repository contains a collection of LeetCode solutions I have worked on, ca
 | [1250-longest-common-subsequence](https://github.com/Roshansingh9/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Roshansingh9/LeetCode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Roshansingh9/LeetCode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Roshansingh9/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/Roshansingh9/LeetCode/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Roshansingh9/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/Roshansingh9/LeetCode/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
@@ -850,6 +853,7 @@ This repository contains a collection of LeetCode solutions I have worked on, ca
 | [0943-sum-of-subarray-minimums](https://github.com/Roshansingh9/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Roshansingh9/LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1078-remove-outermost-parentheses](https://github.com/Roshansingh9/LeetCode/tree/master/1078-remove-outermost-parentheses) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Roshansingh9/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -862,6 +866,7 @@ This repository contains a collection of LeetCode solutions I have worked on, ca
 | [0937-online-stock-span](https://github.com/Roshansingh9/LeetCode/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/Roshansingh9/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Roshansingh9/LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Roshansingh9/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 ## Linked List
 |  |
 | ------- |
