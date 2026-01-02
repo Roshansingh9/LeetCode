@@ -196,6 +196,7 @@ This repository contains a collection of LeetCode solutions I have worked on, ca
 | [0921-spiral-matrix-iii](https://github.com/Roshansingh9/LeetCode/tree/master/0921-spiral-matrix-iii) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Roshansingh9/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0943-sum-of-subarray-minimums](https://github.com/Roshansingh9/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/Roshansingh9/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0967-minimum-falling-path-sum](https://github.com/Roshansingh9/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [0999-regions-cut-by-slashes](https://github.com/Roshansingh9/LeetCode/tree/master/0999-regions-cut-by-slashes) |
 | [1019-squares-of-a-sorted-array](https://github.com/Roshansingh9/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
@@ -261,6 +262,7 @@ This repository contains a collection of LeetCode solutions I have worked on, ca
 | [0560-subarray-sum-equals-k](https://github.com/Roshansingh9/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Roshansingh9/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0870-magic-squares-in-grid](https://github.com/Roshansingh9/LeetCode/tree/master/0870-magic-squares-in-grid) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/Roshansingh9/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0999-regions-cut-by-slashes](https://github.com/Roshansingh9/LeetCode/tree/master/0999-regions-cut-by-slashes) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Roshansingh9/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Roshansingh9/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
