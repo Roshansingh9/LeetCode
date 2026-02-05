@@ -228,6 +228,7 @@ This repository contains a collection of LeetCode solutions I have worked on, ca
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Roshansingh9/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Roshansingh9/LeetCode/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/Roshansingh9/LeetCode/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
+| [3379-transformed-array](https://github.com/Roshansingh9/LeetCode/tree/master/3379-transformed-array) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Roshansingh9/LeetCode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Roshansingh9/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Roshansingh9/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -402,6 +403,7 @@ This repository contains a collection of LeetCode solutions I have worked on, ca
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Roshansingh9/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Roshansingh9/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [3336-water-bottles-ii](https://github.com/Roshansingh9/LeetCode/tree/master/3336-water-bottles-ii) |
+| [3379-transformed-array](https://github.com/Roshansingh9/LeetCode/tree/master/3379-transformed-array) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Roshansingh9/LeetCode/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Roshansingh9/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Roshansingh9/LeetCode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
