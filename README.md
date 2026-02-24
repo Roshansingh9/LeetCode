@@ -603,6 +603,7 @@ This repository contains a collection of LeetCode solutions I have worked on, ca
 | [0801-is-graph-bipartite](https://github.com/Roshansingh9/LeetCode/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Roshansingh9/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0999-regions-cut-by-slashes](https://github.com/Roshansingh9/LeetCode/tree/master/0999-regions-cut-by-slashes) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Roshansingh9/LeetCode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1073-number-of-enclaves](https://github.com/Roshansingh9/LeetCode/tree/master/1073-number-of-enclaves) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Roshansingh9/LeetCode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1753-path-with-minimum-effort](https://github.com/Roshansingh9/LeetCode/tree/master/1753-path-with-minimum-effort) |
@@ -942,6 +943,7 @@ This repository contains a collection of LeetCode solutions I have worked on, ca
 | [0572-subtree-of-another-tree](https://github.com/Roshansingh9/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Roshansingh9/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Roshansingh9/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Roshansingh9/LeetCode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Roshansingh9/LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Binary Tree
 |  |
@@ -971,6 +973,7 @@ This repository contains a collection of LeetCode solutions I have worked on, ca
 | [0572-subtree-of-another-tree](https://github.com/Roshansingh9/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Roshansingh9/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Roshansingh9/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Roshansingh9/LeetCode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Roshansingh9/LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Combinatorics
 |  |
