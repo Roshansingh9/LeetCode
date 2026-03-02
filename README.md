@@ -207,6 +207,7 @@ This repository contains a collection of LeetCode solutions I have worked on, ca
 | [1121-partition-array-for-maximum-sum](https://github.com/Roshansingh9/LeetCode/tree/master/1121-partition-array-for-maximum-sum) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Roshansingh9/LeetCode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Roshansingh9/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Roshansingh9/LeetCode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Roshansingh9/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1612-avoid-flood-in-the-city](https://github.com/Roshansingh9/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Roshansingh9/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -341,6 +342,7 @@ This repository contains a collection of LeetCode solutions I have worked on, ca
 | [0435-non-overlapping-intervals](https://github.com/Roshansingh9/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Roshansingh9/LeetCode/tree/master/0455-assign-cookies) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Roshansingh9/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Roshansingh9/LeetCode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1612-avoid-flood-in-the-city](https://github.com/Roshansingh9/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Roshansingh9/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Roshansingh9/LeetCode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
@@ -569,6 +571,7 @@ This repository contains a collection of LeetCode solutions I have worked on, ca
 | [1036-rotting-oranges](https://github.com/Roshansingh9/LeetCode/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Roshansingh9/LeetCode/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Roshansingh9/LeetCode/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Roshansingh9/LeetCode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1753-path-with-minimum-effort](https://github.com/Roshansingh9/LeetCode/tree/master/1753-path-with-minimum-effort) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Roshansingh9/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Roshansingh9/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
