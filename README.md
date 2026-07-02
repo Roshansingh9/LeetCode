@@ -232,6 +232,7 @@ This repository contains a collection of LeetCode solutions I have worked on, ca
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Roshansingh9/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Roshansingh9/LeetCode/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/Roshansingh9/LeetCode/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Roshansingh9/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3379-transformed-array](https://github.com/Roshansingh9/LeetCode/tree/master/3379-transformed-array) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Roshansingh9/LeetCode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Roshansingh9/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
@@ -405,6 +406,7 @@ This repository contains a collection of LeetCode solutions I have worked on, ca
 | [1753-path-with-minimum-effort](https://github.com/Roshansingh9/LeetCode/tree/master/1753-path-with-minimum-effort) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Roshansingh9/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Roshansingh9/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Roshansingh9/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Simulation
 |  |
 | ------- |
@@ -592,6 +594,7 @@ This repository contains a collection of LeetCode solutions I have worked on, ca
 | [2132-convert-1d-array-into-2d-array](https://github.com/Roshansingh9/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Roshansingh9/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Roshansingh9/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Roshansingh9/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -660,6 +663,7 @@ This repository contains a collection of LeetCode solutions I have worked on, ca
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Roshansingh9/LeetCode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1753-path-with-minimum-effort](https://github.com/Roshansingh9/LeetCode/tree/master/1753-path-with-minimum-effort) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Roshansingh9/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Roshansingh9/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Union Find
 |  |
 | ------- |
@@ -885,6 +889,7 @@ This repository contains a collection of LeetCode solutions I have worked on, ca
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Roshansingh9/LeetCode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Roshansingh9/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Roshansingh9/LeetCode/tree/master/3235-minimum-cost-to-convert-string-i) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Roshansingh9/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -1086,4 +1091,8 @@ This repository contains a collection of LeetCode solutions I have worked on, ca
 | ------- |
 | [0130-surrounded-regions](https://github.com/Roshansingh9/LeetCode/tree/master/0130-surrounded-regions) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Roshansingh9/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Graph Theory
+|  |
+| ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Roshansingh9/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 <!---LeetCode Topics End-->
