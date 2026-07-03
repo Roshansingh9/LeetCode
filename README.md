@@ -241,6 +241,7 @@ This repository contains a collection of LeetCode solutions I have worked on, ca
 | [3616-make-array-elements-equal-to-zero](https://github.com/Roshansingh9/LeetCode/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Roshansingh9/LeetCode/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Roshansingh9/LeetCode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
+| [3620-network-recovery-pathways](https://github.com/Roshansingh9/LeetCode/tree/master/3620-network-recovery-pathways) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Roshansingh9/LeetCode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Roshansingh9/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Roshansingh9/LeetCode/tree/master/3634-minimum-removals-to-balance-array) |
@@ -407,6 +408,7 @@ This repository contains a collection of LeetCode solutions I have worked on, ca
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Roshansingh9/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Roshansingh9/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Roshansingh9/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/Roshansingh9/LeetCode/tree/master/3620-network-recovery-pathways) |
 ## Simulation
 |  |
 | ------- |
@@ -533,6 +535,7 @@ This repository contains a collection of LeetCode solutions I have worked on, ca
 | [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/Roshansingh9/LeetCode/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Roshansingh9/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Roshansingh9/LeetCode/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
+| [3620-network-recovery-pathways](https://github.com/Roshansingh9/LeetCode/tree/master/3620-network-recovery-pathways) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Roshansingh9/LeetCode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Roshansingh9/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Roshansingh9/LeetCode/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
@@ -766,6 +769,7 @@ This repository contains a collection of LeetCode solutions I have worked on, ca
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Roshansingh9/LeetCode/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/Roshansingh9/LeetCode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Roshansingh9/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3620-network-recovery-pathways](https://github.com/Roshansingh9/LeetCode/tree/master/3620-network-recovery-pathways) |
 | [3640-trionic-array-ii](https://github.com/Roshansingh9/LeetCode/tree/master/3640-trionic-array-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Roshansingh9/LeetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Roshansingh9/LeetCode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
@@ -890,6 +894,7 @@ This repository contains a collection of LeetCode solutions I have worked on, ca
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Roshansingh9/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Roshansingh9/LeetCode/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Roshansingh9/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/Roshansingh9/LeetCode/tree/master/3620-network-recovery-pathways) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -1057,6 +1062,7 @@ This repository contains a collection of LeetCode solutions I have worked on, ca
 | [0207-course-schedule](https://github.com/Roshansingh9/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Roshansingh9/LeetCode/tree/master/0210-course-schedule-ii) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Roshansingh9/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [3620-network-recovery-pathways](https://github.com/Roshansingh9/LeetCode/tree/master/3620-network-recovery-pathways) |
 ## Number Theory
 |  |
 | ------- |
@@ -1095,4 +1101,5 @@ This repository contains a collection of LeetCode solutions I have worked on, ca
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Roshansingh9/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/Roshansingh9/LeetCode/tree/master/3620-network-recovery-pathways) |
 <!---LeetCode Topics End-->
