@@ -206,6 +206,7 @@ This repository contains a collection of LeetCode solutions I have worked on, ca
 | [1073-number-of-enclaves](https://github.com/Roshansingh9/LeetCode/tree/master/1073-number-of-enclaves) |
 | [1121-partition-array-for-maximum-sum](https://github.com/Roshansingh9/LeetCode/tree/master/1121-partition-array-for-maximum-sum) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Roshansingh9/LeetCode/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1301-number-of-paths-with-max-score](https://github.com/Roshansingh9/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Roshansingh9/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Roshansingh9/LeetCode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Roshansingh9/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -592,6 +593,7 @@ This repository contains a collection of LeetCode solutions I have worked on, ca
 | [1036-rotting-oranges](https://github.com/Roshansingh9/LeetCode/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Roshansingh9/LeetCode/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Roshansingh9/LeetCode/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1301-number-of-paths-with-max-score](https://github.com/Roshansingh9/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Roshansingh9/LeetCode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1753-path-with-minimum-effort](https://github.com/Roshansingh9/LeetCode/tree/master/1753-path-with-minimum-effort) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Roshansingh9/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -758,6 +760,7 @@ This repository contains a collection of LeetCode solutions I have worked on, ca
 | [1121-partition-array-for-maximum-sum](https://github.com/Roshansingh9/LeetCode/tree/master/1121-partition-array-for-maximum-sum) |
 | [1170-shortest-common-supersequence](https://github.com/Roshansingh9/LeetCode/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/Roshansingh9/LeetCode/tree/master/1250-longest-common-subsequence) |
+| [1301-number-of-paths-with-max-score](https://github.com/Roshansingh9/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Roshansingh9/LeetCode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Roshansingh9/LeetCode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Roshansingh9/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
