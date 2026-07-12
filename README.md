@@ -208,6 +208,7 @@ This repository contains a collection of LeetCode solutions I have worked on, ca
 | [1171-shortest-path-in-binary-matrix](https://github.com/Roshansingh9/LeetCode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1288-remove-covered-intervals](https://github.com/Roshansingh9/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Roshansingh9/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
+| [1331-rank-transform-of-an-array](https://github.com/Roshansingh9/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Roshansingh9/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Roshansingh9/LeetCode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Roshansingh9/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -281,6 +282,7 @@ This repository contains a collection of LeetCode solutions I have worked on, ca
 | [0870-magic-squares-in-grid](https://github.com/Roshansingh9/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Roshansingh9/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0999-regions-cut-by-slashes](https://github.com/Roshansingh9/LeetCode/tree/master/0999-regions-cut-by-slashes) |
+| [1331-rank-transform-of-an-array](https://github.com/Roshansingh9/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Roshansingh9/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Roshansingh9/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1612-avoid-flood-in-the-city](https://github.com/Roshansingh9/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
@@ -391,6 +393,7 @@ This repository contains a collection of LeetCode solutions I have worked on, ca
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Roshansingh9/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/Roshansingh9/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1288-remove-covered-intervals](https://github.com/Roshansingh9/LeetCode/tree/master/1288-remove-covered-intervals) |
+| [1331-rank-transform-of-an-array](https://github.com/Roshansingh9/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Roshansingh9/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Roshansingh9/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/Roshansingh9/LeetCode/tree/master/1669-minimum-cost-to-cut-a-stick) |
