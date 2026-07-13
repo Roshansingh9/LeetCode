@@ -720,6 +720,7 @@ This repository contains a collection of LeetCode solutions I have worked on, ca
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Roshansingh9/LeetCode/tree/master/0204-count-primes) |
+| [1291-sequential-digits](https://github.com/Roshansingh9/LeetCode/tree/master/1291-sequential-digits) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Roshansingh9/LeetCode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Roshansingh9/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Roshansingh9/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
