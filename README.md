@@ -236,6 +236,7 @@ This repository contains a collection of LeetCode solutions I have worked on, ca
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Roshansingh9/LeetCode/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/Roshansingh9/LeetCode/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Roshansingh9/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Roshansingh9/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3379-transformed-array](https://github.com/Roshansingh9/LeetCode/tree/master/3379-transformed-array) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Roshansingh9/LeetCode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Roshansingh9/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
@@ -328,6 +329,7 @@ This repository contains a collection of LeetCode solutions I have worked on, ca
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Roshansingh9/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Roshansingh9/LeetCode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3336-water-bottles-ii](https://github.com/Roshansingh9/LeetCode/tree/master/3336-water-bottles-ii) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Roshansingh9/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Roshansingh9/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Roshansingh9/LeetCode/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Roshansingh9/LeetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
@@ -791,6 +793,7 @@ This repository contains a collection of LeetCode solutions I have worked on, ca
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Roshansingh9/LeetCode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Roshansingh9/LeetCode/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/Roshansingh9/LeetCode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Roshansingh9/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Roshansingh9/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Roshansingh9/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/Roshansingh9/LeetCode/tree/master/3620-network-recovery-pathways) |
@@ -1092,6 +1095,7 @@ This repository contains a collection of LeetCode solutions I have worked on, ca
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Roshansingh9/LeetCode/tree/master/0204-count-primes) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Roshansingh9/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Roshansingh9/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Database
 |  |
