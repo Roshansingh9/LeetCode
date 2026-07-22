@@ -244,6 +244,7 @@ This repository contains a collection of LeetCode solutions I have worked on, ca
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Roshansingh9/LeetCode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Roshansingh9/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Roshansingh9/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/Roshansingh9/LeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Roshansingh9/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Roshansingh9/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Roshansingh9/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -500,6 +501,7 @@ This repository contains a collection of LeetCode solutions I have worked on, ca
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Roshansingh9/LeetCode/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Roshansingh9/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Roshansingh9/LeetCode/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/Roshansingh9/LeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Roshansingh9/LeetCode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Roshansingh9/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Two Pointers
@@ -568,6 +570,7 @@ This repository contains a collection of LeetCode solutions I have worked on, ca
 | [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/Roshansingh9/LeetCode/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Roshansingh9/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Roshansingh9/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/Roshansingh9/LeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Roshansingh9/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Roshansingh9/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Roshansingh9/LeetCode/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
@@ -1164,4 +1167,8 @@ This repository contains a collection of LeetCode solutions I have worked on, ca
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Roshansingh9/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Roshansingh9/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/Roshansingh9/LeetCode/tree/master/3620-network-recovery-pathways) |
+## Segment Tree
+|  |
+| ------- |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/Roshansingh9/LeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
 <!---LeetCode Topics End-->
