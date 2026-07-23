@@ -245,6 +245,7 @@ This repository contains a collection of LeetCode solutions I have worked on, ca
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Roshansingh9/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Roshansingh9/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Roshansingh9/LeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/Roshansingh9/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Roshansingh9/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Roshansingh9/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Roshansingh9/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -338,6 +339,7 @@ This repository contains a collection of LeetCode solutions I have worked on, ca
 | [3312-sorted-gcd-pair-queries](https://github.com/Roshansingh9/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-water-bottles-ii](https://github.com/Roshansingh9/LeetCode/tree/master/3336-water-bottles-ii) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Roshansingh9/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/Roshansingh9/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Roshansingh9/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Roshansingh9/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Roshansingh9/LeetCode/tree/master/3676-smallest-number-with-all-set-bits) |
@@ -869,6 +871,7 @@ This repository contains a collection of LeetCode solutions I have worked on, ca
 | [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/Roshansingh9/LeetCode/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Roshansingh9/LeetCode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/Roshansingh9/LeetCode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/Roshansingh9/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Roshansingh9/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Roshansingh9/LeetCode/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Roshansingh9/LeetCode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
