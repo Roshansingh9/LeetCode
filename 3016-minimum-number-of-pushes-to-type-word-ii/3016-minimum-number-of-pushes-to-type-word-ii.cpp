@@ -1,14 +1,14 @@
 class Solution {
 public:
     int minimumPushes(string word) {
-         int freq[26]={0};
-        for(char c: word) 
-            freq[c-'a']++;
-        sort(freq, freq+26);
-    
-        int sz=25, ans=0;
-        for(; sz>=0 && freq[sz]!=0; sz--){
-            ans+=freq[sz]*((25-sz)/8+1);    
+        vector<int> cnt(26);
+        for (char& c : word) {
+            ++cnt[c - 'a'];
+        }
+        sort(cnt.rbegin(), cnt.rend());
+        int ans = 0;
+        for (int i = 0; i < 26; ++i) {
+            ans += (i / 8 + 1) * cnt[i];
         }
         return ans;
     }
