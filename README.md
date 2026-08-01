@@ -175,6 +175,7 @@ This repository contains a collection of LeetCode solutions I have worked on, ca
 | [0455-assign-cookies](https://github.com/Roshansingh9/LeetCode/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Roshansingh9/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0485-max-consecutive-ones](https://github.com/Roshansingh9/LeetCode/tree/master/0485-max-consecutive-ones) |
+| [0486-predict-the-winner](https://github.com/Roshansingh9/LeetCode/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/Roshansingh9/LeetCode/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/Roshansingh9/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Roshansingh9/LeetCode/tree/master/0503-next-greater-element-ii) |
@@ -328,6 +329,7 @@ This repository contains a collection of LeetCode solutions I have worked on, ca
 | [0273-integer-to-english-words](https://github.com/Roshansingh9/LeetCode/tree/master/0273-integer-to-english-words) |
 | [0371-sum-of-two-integers](https://github.com/Roshansingh9/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Roshansingh9/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0486-predict-the-winner](https://github.com/Roshansingh9/LeetCode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Roshansingh9/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0870-magic-squares-in-grid](https://github.com/Roshansingh9/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [0914-random-point-in-non-overlapping-rectangles](https://github.com/Roshansingh9/LeetCode/tree/master/0914-random-point-in-non-overlapping-rectangles) |
@@ -629,6 +631,7 @@ This repository contains a collection of LeetCode solutions I have worked on, ca
 | [0231-power-of-two](https://github.com/Roshansingh9/LeetCode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Roshansingh9/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0273-integer-to-english-words](https://github.com/Roshansingh9/LeetCode/tree/master/0273-integer-to-english-words) |
+| [0486-predict-the-winner](https://github.com/Roshansingh9/LeetCode/tree/master/0486-predict-the-winner) |
 | [1013-fibonacci-number](https://github.com/Roshansingh9/LeetCode/tree/master/1013-fibonacci-number) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Roshansingh9/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2050-count-good-numbers](https://github.com/Roshansingh9/LeetCode/tree/master/2050-count-good-numbers) |
@@ -816,6 +819,7 @@ This repository contains a collection of LeetCode solutions I have worked on, ca
 | [0354-russian-doll-envelopes](https://github.com/Roshansingh9/LeetCode/tree/master/0354-russian-doll-envelopes) |
 | [0416-partition-equal-subset-sum](https://github.com/Roshansingh9/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Roshansingh9/LeetCode/tree/master/0435-non-overlapping-intervals) |
+| [0486-predict-the-winner](https://github.com/Roshansingh9/LeetCode/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/Roshansingh9/LeetCode/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/Roshansingh9/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/Roshansingh9/LeetCode/tree/master/0518-coin-change-ii) |
@@ -1205,4 +1209,8 @@ This repository contains a collection of LeetCode solutions I have worked on, ca
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Roshansingh9/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Roshansingh9/LeetCode/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
