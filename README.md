@@ -194,6 +194,7 @@ This repository contains a collection of LeetCode solutions I have worked on, ca
 | [0792-binary-search](https://github.com/Roshansingh9/LeetCode/tree/master/0792-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/Roshansingh9/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [0870-magic-squares-in-grid](https://github.com/Roshansingh9/LeetCode/tree/master/0870-magic-squares-in-grid) |
+| [0877-stone-game](https://github.com/Roshansingh9/LeetCode/tree/master/0877-stone-game) |
 | [0914-random-point-in-non-overlapping-rectangles](https://github.com/Roshansingh9/LeetCode/tree/master/0914-random-point-in-non-overlapping-rectangles) |
 | [0921-spiral-matrix-iii](https://github.com/Roshansingh9/LeetCode/tree/master/0921-spiral-matrix-iii) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Roshansingh9/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
@@ -332,6 +333,7 @@ This repository contains a collection of LeetCode solutions I have worked on, ca
 | [0486-predict-the-winner](https://github.com/Roshansingh9/LeetCode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Roshansingh9/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0870-magic-squares-in-grid](https://github.com/Roshansingh9/LeetCode/tree/master/0870-magic-squares-in-grid) |
+| [0877-stone-game](https://github.com/Roshansingh9/LeetCode/tree/master/0877-stone-game) |
 | [0914-random-point-in-non-overlapping-rectangles](https://github.com/Roshansingh9/LeetCode/tree/master/0914-random-point-in-non-overlapping-rectangles) |
 | [1013-fibonacci-number](https://github.com/Roshansingh9/LeetCode/tree/master/1013-fibonacci-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Roshansingh9/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
@@ -830,6 +832,7 @@ This repository contains a collection of LeetCode solutions I have worked on, ca
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Roshansingh9/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0747-min-cost-climbing-stairs](https://github.com/Roshansingh9/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Roshansingh9/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0877-stone-game](https://github.com/Roshansingh9/LeetCode/tree/master/0877-stone-game) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Roshansingh9/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0943-sum-of-subarray-minimums](https://github.com/Roshansingh9/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
 | [0967-minimum-falling-path-sum](https://github.com/Roshansingh9/LeetCode/tree/master/0967-minimum-falling-path-sum) |
@@ -1213,4 +1216,5 @@ This repository contains a collection of LeetCode solutions I have worked on, ca
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Roshansingh9/LeetCode/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/Roshansingh9/LeetCode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
