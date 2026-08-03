@@ -214,6 +214,7 @@ This repository contains a collection of LeetCode solutions I have worked on, ca
 | [1301-number-of-paths-with-max-score](https://github.com/Roshansingh9/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/Roshansingh9/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Roshansingh9/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
+| [1406-stone-game-iii](https://github.com/Roshansingh9/LeetCode/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Roshansingh9/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Roshansingh9/LeetCode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Roshansingh9/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -337,6 +338,7 @@ This repository contains a collection of LeetCode solutions I have worked on, ca
 | [0914-random-point-in-non-overlapping-rectangles](https://github.com/Roshansingh9/LeetCode/tree/master/0914-random-point-in-non-overlapping-rectangles) |
 | [1013-fibonacci-number](https://github.com/Roshansingh9/LeetCode/tree/master/1013-fibonacci-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Roshansingh9/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
+| [1406-stone-game-iii](https://github.com/Roshansingh9/LeetCode/tree/master/1406-stone-game-iii) |
 | [1501-circle-and-rectangle-overlapping](https://github.com/Roshansingh9/LeetCode/tree/master/1501-circle-and-rectangle-overlapping) |
 | [1642-water-bottles](https://github.com/Roshansingh9/LeetCode/tree/master/1642-water-bottles) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/Roshansingh9/LeetCode/tree/master/1817-calculate-money-in-leetcode-bank) |
@@ -841,6 +843,7 @@ This repository contains a collection of LeetCode solutions I have worked on, ca
 | [1170-shortest-common-supersequence](https://github.com/Roshansingh9/LeetCode/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/Roshansingh9/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [1301-number-of-paths-with-max-score](https://github.com/Roshansingh9/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
+| [1406-stone-game-iii](https://github.com/Roshansingh9/LeetCode/tree/master/1406-stone-game-iii) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Roshansingh9/LeetCode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Roshansingh9/LeetCode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Roshansingh9/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
@@ -1217,4 +1220,13 @@ This repository contains a collection of LeetCode solutions I have worked on, ca
 | ------- |
 | [0486-predict-the-winner](https://github.com/Roshansingh9/LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Roshansingh9/LeetCode/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/Roshansingh9/LeetCode/tree/master/1406-stone-game-iii) |
+## Minimax
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/Roshansingh9/LeetCode/tree/master/1406-stone-game-iii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/Roshansingh9/LeetCode/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
