@@ -265,6 +265,7 @@ This repository contains a collection of LeetCode solutions I have worked on, ca
 | [3637-trionic-array-i](https://github.com/Roshansingh9/LeetCode/tree/master/3637-trionic-array-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Roshansingh9/LeetCode/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3640-trionic-array-ii](https://github.com/Roshansingh9/LeetCode/tree/master/3640-trionic-array-ii) |
+| [3731-find-missing-elements](https://github.com/Roshansingh9/LeetCode/tree/master/3731-find-missing-elements) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Roshansingh9/LeetCode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Roshansingh9/LeetCode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Roshansingh9/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -312,6 +313,7 @@ This repository contains a collection of LeetCode solutions I have worked on, ca
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Roshansingh9/LeetCode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Roshansingh9/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Roshansingh9/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3731-find-missing-elements](https://github.com/Roshansingh9/LeetCode/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
 | ------- |
@@ -446,6 +448,7 @@ This repository contains a collection of LeetCode solutions I have worked on, ca
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Roshansingh9/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Roshansingh9/LeetCode/tree/master/3634-minimum-removals-to-balance-array) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Roshansingh9/LeetCode/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
+| [3731-find-missing-elements](https://github.com/Roshansingh9/LeetCode/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Roshansingh9/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Heap (Priority Queue)
 |  |
