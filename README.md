@@ -355,6 +355,7 @@ This repository contains a collection of LeetCode solutions I have worked on, ca
 | [3336-water-bottles-ii](https://github.com/Roshansingh9/LeetCode/tree/master/3336-water-bottles-ii) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Roshansingh9/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Roshansingh9/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Roshansingh9/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Roshansingh9/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Roshansingh9/LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Roshansingh9/LeetCode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -403,6 +404,7 @@ This repository contains a collection of LeetCode solutions I have worked on, ca
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Roshansingh9/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Roshansingh9/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Roshansingh9/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Roshansingh9/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Roshansingh9/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Roshansingh9/LeetCode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Roshansingh9/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -532,6 +534,7 @@ This repository contains a collection of LeetCode solutions I have worked on, ca
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/Roshansingh9/LeetCode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Roshansingh9/LeetCode/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Roshansingh9/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Roshansingh9/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Roshansingh9/LeetCode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Roshansingh9/LeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Roshansingh9/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -945,6 +948,7 @@ This repository contains a collection of LeetCode solutions I have worked on, ca
 | [1980-find-unique-binary-string](https://github.com/Roshansingh9/LeetCode/tree/master/1980-find-unique-binary-string) |
 | [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/Roshansingh9/LeetCode/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Roshansingh9/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Roshansingh9/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Bitmask
 |  |
 | ------- |
@@ -1172,6 +1176,7 @@ This repository contains a collection of LeetCode solutions I have worked on, ca
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Roshansingh9/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Roshansingh9/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Roshansingh9/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Roshansingh9/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Roshansingh9/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Roshansingh9/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Roshansingh9/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
