@@ -12,13 +12,17 @@
 class Solution {
     private:
     bool helper(TreeNode* left,TreeNode* right){
-        if (!left || !right) return left == right;
-        if (left->val != right->val) return false;
-        return helper(left->left, right->right) && helper(left->right, right->left);
+        if(left==NULL || right==NULL){
+            return left==right;
+        }
+        return (left->val==right->val && helper(left->left,right->right) && helper(left->right,right->left));
     }
 public:
     bool isSymmetric(TreeNode* root) {
-        if(!root) return true;
-        return  helper(root->left,root->right);
+        if(!root){
+            return true;
+
+        }
+        return helper(root->left,root->right);
     }
 };
