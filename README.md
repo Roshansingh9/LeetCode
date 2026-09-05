@@ -134,6 +134,7 @@ This repository contains a collection of LeetCode solutions I have worked on, ca
 | [0085-maximal-rectangle](https://github.com/Roshansingh9/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/Roshansingh9/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/Roshansingh9/LeetCode/tree/master/0090-subsets-ii) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Roshansingh9/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0118-pascals-triangle](https://github.com/Roshansingh9/LeetCode/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/Roshansingh9/LeetCode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Roshansingh9/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -278,6 +279,7 @@ This repository contains a collection of LeetCode solutions I have worked on, ca
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Roshansingh9/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/Roshansingh9/LeetCode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Roshansingh9/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Roshansingh9/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/Roshansingh9/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/Roshansingh9/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Roshansingh9/LeetCode/tree/master/0142-linked-list-cycle-ii) |
@@ -972,6 +974,7 @@ This repository contains a collection of LeetCode solutions I have worked on, ca
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Roshansingh9/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/Roshansingh9/LeetCode/tree/master/0053-maximum-subarray) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Roshansingh9/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0169-majority-element](https://github.com/Roshansingh9/LeetCode/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/Roshansingh9/LeetCode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Roshansingh9/LeetCode/tree/master/0191-number-of-1-bits) |
@@ -1084,6 +1087,7 @@ This repository contains a collection of LeetCode solutions I have worked on, ca
 | [0102-binary-tree-level-order-traversal](https://github.com/Roshansingh9/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Roshansingh9/LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Roshansingh9/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Roshansingh9/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/Roshansingh9/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Roshansingh9/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Roshansingh9/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -1115,6 +1119,7 @@ This repository contains a collection of LeetCode solutions I have worked on, ca
 | [0102-binary-tree-level-order-traversal](https://github.com/Roshansingh9/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Roshansingh9/LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Roshansingh9/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Roshansingh9/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/Roshansingh9/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Roshansingh9/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Roshansingh9/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
