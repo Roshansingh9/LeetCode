@@ -1273,4 +1273,8 @@ This repository contains a collection of LeetCode solutions I have worked on, ca
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Roshansingh9/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Roshansingh9/LeetCode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
