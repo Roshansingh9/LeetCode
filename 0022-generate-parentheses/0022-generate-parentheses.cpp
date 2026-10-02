@@ -1,17 +1,30 @@
 class Solution {
-    private:
-    void solution(vector<string> &ans,string s,int open,int close,int max){
-        if (s.size()==2*max){
-            ans.push_back(s);
+public:
+    void func(vector<string>& list, string& ch, int index,
+              int open, int close) {
+
+        if (open == 0 && close == 0) {
+            list.push_back(ch);
             return;
         }
-        if(open<max) solution(ans,s+'(',open+1,close,max);
-        if(close<open) solution(ans,s+')',open,close+1,max);
+
+        if (open > 0) {
+            ch[index] = '(';
+            func(list, ch, index + 1, open - 1, close);
+        }
+
+        if (close > open) {
+            ch[index] = ')';
+            func(list, ch, index + 1, open, close - 1);
+        }
     }
-public:
+
     vector<string> generateParenthesis(int n) {
-        vector<string> ans;
-        solution(ans,"",0,0,n);
-        return ans;
+        vector<string> list;
+        string ch(2 * n, ' ');
+
+        func(list, ch, 0, n, n);
+
+        return list;
     }
 };
