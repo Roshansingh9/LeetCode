@@ -518,6 +518,7 @@ This repository contains a collection of LeetCode solutions I have worked on, ca
 | [0242-valid-anagram](https://github.com/Roshansingh9/LeetCode/tree/master/0242-valid-anagram) |
 | [0273-integer-to-english-words](https://github.com/Roshansingh9/LeetCode/tree/master/0273-integer-to-english-words) |
 | [0299-bulls-and-cows](https://github.com/Roshansingh9/LeetCode/tree/master/0299-bulls-and-cows) |
+| [0301-remove-invalid-parentheses](https://github.com/Roshansingh9/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/Roshansingh9/LeetCode/tree/master/0344-reverse-string) |
 | [0402-remove-k-digits](https://github.com/Roshansingh9/LeetCode/tree/master/0402-remove-k-digits) |
 | [0516-longest-palindromic-subsequence](https://github.com/Roshansingh9/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
@@ -745,6 +746,7 @@ This repository contains a collection of LeetCode solutions I have worked on, ca
 | [0207-course-schedule](https://github.com/Roshansingh9/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Roshansingh9/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/Roshansingh9/LeetCode/tree/master/0226-invert-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/Roshansingh9/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/Roshansingh9/LeetCode/tree/master/0322-coin-change) |
 | [0407-trapping-rain-water-ii](https://github.com/Roshansingh9/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Roshansingh9/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
@@ -961,6 +963,7 @@ This repository contains a collection of LeetCode solutions I have worked on, ca
 | [0090-subsets-ii](https://github.com/Roshansingh9/LeetCode/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/Roshansingh9/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/Roshansingh9/LeetCode/tree/master/0216-combination-sum-iii) |
+| [0301-remove-invalid-parentheses](https://github.com/Roshansingh9/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 | [0494-target-sum](https://github.com/Roshansingh9/LeetCode/tree/master/0494-target-sum) |
 | [0638-shopping-offers](https://github.com/Roshansingh9/LeetCode/tree/master/0638-shopping-offers) |
 | [1980-find-unique-binary-string](https://github.com/Roshansingh9/LeetCode/tree/master/1980-find-unique-binary-string) |
