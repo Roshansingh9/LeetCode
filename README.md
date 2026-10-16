@@ -243,6 +243,7 @@ This repository contains a collection of LeetCode solutions I have worked on, ca
 | [2778-sum-of-squares-of-special-elements](https://github.com/Roshansingh9/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Roshansingh9/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Roshansingh9/LeetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Roshansingh9/LeetCode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Roshansingh9/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Roshansingh9/LeetCode/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/Roshansingh9/LeetCode/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
@@ -314,6 +315,7 @@ This repository contains a collection of LeetCode solutions I have worked on, ca
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Roshansingh9/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Roshansingh9/LeetCode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Roshansingh9/LeetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Roshansingh9/LeetCode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Roshansingh9/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Roshansingh9/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Roshansingh9/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -1269,6 +1271,7 @@ This repository contains a collection of LeetCode solutions I have worked on, ca
 ## Segment Tree
 |  |
 | ------- |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Roshansingh9/LeetCode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Roshansingh9/LeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Counting Sort
 |  |
@@ -1308,4 +1311,8 @@ This repository contains a collection of LeetCode solutions I have worked on, ca
 | [0032-longest-valid-parentheses](https://github.com/Roshansingh9/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Roshansingh9/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Roshansingh9/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Roshansingh9/LeetCode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 <!---LeetCode Topics End-->
