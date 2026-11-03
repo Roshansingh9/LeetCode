@@ -274,6 +274,7 @@ This repository contains a collection of LeetCode solutions I have worked on, ca
 | [3640-trionic-array-ii](https://github.com/Roshansingh9/LeetCode/tree/master/3640-trionic-array-ii) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Roshansingh9/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/Roshansingh9/LeetCode/tree/master/3731-find-missing-elements) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Roshansingh9/LeetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Roshansingh9/LeetCode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Roshansingh9/LeetCode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Roshansingh9/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -377,6 +378,7 @@ This repository contains a collection of LeetCode solutions I have worked on, ca
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Roshansingh9/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Roshansingh9/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Roshansingh9/LeetCode/tree/master/3676-smallest-number-with-all-set-bits) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Roshansingh9/LeetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Roshansingh9/LeetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Roshansingh9/LeetCode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Roshansingh9/LeetCode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
