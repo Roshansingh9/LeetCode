@@ -1299,6 +1299,7 @@ This repository contains a collection of LeetCode solutions I have worked on, ca
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Roshansingh9/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0543-diameter-of-binary-tree](https://github.com/Roshansingh9/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Lifting
 |  |
 | ------- |
